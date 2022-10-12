@@ -7,118 +7,120 @@ Malzemeler  -> Tugla/Seramik -> Tugla Duvar  -> Yapi
 ### Tanim
 Yapi ***ihtiyaclari*** karsilamak uzere **malzeme** ve **yapim yontemleri** kullanilarak; *karada*, *suda*, *yer altinda*, *yer ustunde*, *gecici* veya *kalici* yapilan her turlu tesis ve eklerdir.
 ### Siniflandirma
-a) Mulkiyetleri(sahiplikleri) bakimindan
-    a1) Gercek veya tuzel(sirket) kisilere ait yapilar
-    a2) Vakiflara ait
-    a3) Resmi(kamu) yapilari
-b) Zemin seviyesine gore
-    b1) Alt yapilar(depolar, siginaklar)
-    b2) Ust yapilar
-c) Surekliliklerine gore
-    c1) Gecici yapilar
-    c2) Kalici yapilar
-d) Yapilis amaclari bakimindan
-    d1) Bina yapilari
-    d2) Anitlar ve tarihi yapilar
-    d3) Ulastirma yapilari(Tunel, kopru, viyaduk)
-    d4) Spor tesisleri
-    d5) Su yapilari(su icinde ya da su kenarinda)
+- Mulkiyetleri(sahiplikler- bakimindan
+    1- Gercek veya tuzel(sirke- kisilere ait yapilar
+    2- Vakiflara ait
+    3- Resmi(kam- yapilari
+- Zemin seviyesine gore
+    1- Alt yapilar(depolar, siginakla)
+    2- Ust yapilar
+- Surekliliklerine gore
+    1- Gecici yapilar
+    2- Kalici yapilar
+- Yapilis amaclari bakimindan
+    1- Bina yapilari
+    2- Anitlar ve tarihi yapilar
+    3- Ulastirma yapilari(Tunel, kopru, viyaduk)
+    4- Spor tesisleri
+    5- Su yapilari(su icinde ya da su kenarind)
 ## Bina Yapilari
+
 ### Tanim
 Dis etkenlerden korunmak icin yapilan yapidir.
+
 ### Siniflandirilmasi
-a) Amaclari bakimindan
-    a1) Meskenler
-    a2) Konaklama(otel, motel, kamp)
-    a3) Kultur ve egitim(kutuphane, muze)
-    a4) Saglik binalari(hastane, saglik ocagi)
-    a5) Dini binalar(camiler, mescitler, kiliseler)
-    a6) Sosyal Faaliyet(sinema, tiyatro, opera)
-    a7) Guvenlik binalari(hapishane, siginak, karakol, adliye binasi)
-    a8) Ticaret binalari(marketler, is hanlari, carsilar, bankalar)
-    a9) Endustri binalari(atolyeler, imalathaneeler, fabrikalar)
+- Amaclari bakimindan
+    1- Meskenler
+    2- Konklm(otel, motel, kmp-
+    3- Kultur ve egitim(kutuphne, muze-
+    4- Sglik binlri(hstne, sglik ocgi-
+    5- Dini binlr(cmiler, mescitler, kiliseler-
+    6- Sosyl Fliyet(sinem, tiytro, oper-
+    7- Guvenlik binlri(hpishne, sigink, krkol, dliye binsi-
+    8- Ticret binlri(mrketler, is hnlri, crsilr, bnklr-
+    9- Endustri binlri(tolyeler, imlthneeler, fbriklr-
 
-b) Tasiyici elemanlari bakimindan
-**b1) Iskelet-Karkas binalar**
-    - Celik, ahsap iskeletli binalardir.
-    - **KOLON** ve **KIRIS** yukleri **TEMELE** iletir.
-    - Betonarme, celik, ahsap karkas binalar yapilabilir.
-**b2) Yigma yapilar**
-    - Bina yuku **DUVARLAR** tarafindan tasinir.
-    - **TAS** ve **KERPIC**'ten yapilabilir.
-**b3) Karma yapilar**
-    - Bir bolumu yigma, bir bolumu karkas olarak insta edilmis yapilardir.
+- Tasiyici elemanlari bakimindan
+    1- Iskelet-Karkas binalar**
+       - Celik, ahsap iskeletli binalardir.
+       - **KOLON** ve **KIRIS** yukleri **TEMELE** iletir.
+       - Betonarme, celik, ahsap karkas binalar yapilabilir.
+    2- Yigma yapilar
+       - Bina yuku **DUVARLAR** tarafindan tasinir.
+       - **TAS** ve **KERPIC**'ten yapilabilir.
+    3- Karma yapilar
+        - Bir bolumu yigma, bir bolumu karkas olarak insta edilmis yapilardir.
 
-c) Yapimlarinda kullanilan teknik bakimindan
-    c1) Geleneksel yontemlerle yapilan binalar
-    c2) Prefabrik binalar
-    c3) Karma binalar
+- Yapimlarinda kullanilan teknik bakimindan
+    1- Geleneksel yontemlerle yapilan binalar
+    2- Prefabrik binalar
+    3- Karma binalar
 
-d) Tasiyici elemanlarinin insasinda kullanilan malzeme bakimindan
-    d1) Kagir yapilar(yigma yapilar)
-    d2) Betonarme yapilar(betonarme karkas)
-    d3) Celik yapilar
-    d4) Ahsap yapilar
-    d5) Karma yapilar(betonarme binada celik sundurma)
+- Tasiyici elemanlarinin insasinda kullanilan malzeme bakimindan
+    1- Kagir yapilar(yigma yapilar-
+    2- Betonarme yapilar(betonarme karkas-
+    3- Celik yapilar
+    4- Ahsap yapilar
+    5- Karma yapilar(betonarme binada celik sundurm-
 ### Binalari Olusturan Ana Bolumler
-a) Tasiyici elemanlar
-    a1) Temeller
-    a2) Duvarlar(Yigma yapilar icin)
-    a3) Kolonlar(Sutunlar)
-    a4) Kirisler
-    a5) Dosemeler(Yapiyi katlara ayiran elemanlar)
-    a6) Merdivenler
-    a7) Catilar
+- Tasiyici elemanlar
+    1- Temeller
+    2- Duvarlar(Yigma yapilar icin-
+    3- Kolonlar(Sutunlar-
+    4- Kirisler
+    5- Dosemeler(Yapiyi katlara ayiran elemanlar-
+    6- Merdivenler
+    7- Catilar
 
-b) Tamamlayici elemanlar
-    b1) Bacalar
-    b2) Dogramalar
-    b3) Doseme, duvar, tavan kaplamalari
-    b4) Sivalar
-    b5) Boyalar
-    b6) Yalitim
+- Tamamlayici elemanlar
+    1- Bacalar
+    2- Dogramalar
+    3- Doseme, duvar, tavan kaplamalari
+    4- Sivalar
+    5- Boyalar
+    6- Yalitim
 
-c) Tesisatlar(Donanimlar)
-    c1) Temiz ve pis su tesisati
-    c2) Elektrik tesisati
-    c3) Isitma tesisati
-    c4) Iklimlendirme-klima tesisati(isitma, sogutma, temizleme)
-    c5) Havalandirma
-    c6) Guvenlik tesisati
-    c7) Haberlesme tesisati
-    c8) Kanalizasyon tesisati
-    c9) Yildirim(paratoner) tesisati
-    c10) Dogalgaz
-    c11) Akustik-ses vs.
+- Tesisatlar(Donanimlar)
+    1- Temiz ve pis su tesisati
+    2- Elektrik tesisati
+    3- Isitma tesisati
+    4- Iklimlendirme-klima tesisati(isitma, sogutma, temizleme-
+    5- Havalandirma
+    6- Guvenlik tesisati
+    7- Haberlesme tesisati
+    8- Kanalizasyon tesisati
+    9- Yildirim(paratoner- tesisati
+    10- Dogalgaz
+    11- Akustik-ses vs.
 
 ## APLIKASYON
+
 ### Tanim
 Yapinin arazi ya da arsa uzerindeki yerinin belirlenmesi islemidir.
 ARAZI, ARSA, IMAR PLANI, PARSEL, IMAR DURUM BELGESI(IMAR CAPI)
 
 ### Aplikasyon Islem Sirasi
-
-a) **Parsel sinirlari belirlenir.**
+1- Parsel sinirlari belirlenir.
 Parsel sinirlarini belirlemek icin aplikasyon krokisinden yararlanilir. Ayrica bu asamada Tapu Kadastro Idaresinden yardim istenmelidir.
 
 Aplikasyon Krokisi
 ![Parsel](./images/parsel.png)
 Parsel kose noktalarinin (kordinatlarin) tanimlandigi belgedir. Tapu Kadastro'dan alinir.
 
-b) **Yapi sinirlari belirlenir**
+2- Yapi sinirlari belirlenir
 Imar durum belgesi ve mimari projedeki durum planindan yararlanilarak, yapinin parsel icerisindeki yeri belirlenir.
 ![Imar](./images/imar.png)
 
-c) **Kazi sinirlari belirlenir**
+3- Kazi sinirlari belirlenir
 En az 50 cm, kazi guvenligi, zemin yapisi, kazi derinligi dikkate alinir.
 
 ![Sinir](./images/sinir.png)
 
-d) **Ip iskelesi(telora) sinirlari belirlenir**
+4- Ip iskelesi(telora) sinirlari belirlenir
 Kazi yapildiktan sonra kaybolan sinirlari referanslandirir.
 ![IpIskelesi](./images/ipiskelesi.png)
 
-e) **Ip iskelesi teskil edilir**
+5- Ip iskelesi teskil edilir
 Kaziklar cakilir, ip gerili cekul(sakul) indirilir ve yerler belirlenir.
 ![Sakul](./images/sakul.png)
 
