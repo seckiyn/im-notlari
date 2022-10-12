@@ -125,6 +125,7 @@ Kaziklar cakilir, ip gerili cekul(sakul) indirilir ve yerler belirlenir.
 ![Sakul](./images/sakul.png)
 
 ORNEKLER:
+
 ![ORNEK1](./images/ornek1.png)
 ![ORNEK2](./images/ornek2.png)
 ![ORNEK3](./images/ornek3.png)
