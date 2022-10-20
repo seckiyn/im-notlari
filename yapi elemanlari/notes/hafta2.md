@@ -98,3 +98,87 @@ Yapildigi malzemeye gore:
 - Beton ve betonarme
 
 #### Ahsap Palplans
+
+Düzenlenme şekli ahşap iksalarda olduğu gibidir. Tek fark, iksa yüzey elemanlarının aralarından su girmesini önleyecek şekilde birleştirilmeleridir.
+
+Köknar ve melez gibi dayanıklı ahşabın yuvarlak veya dikdörtgen kesitli olarak tek veya çift sıra, lambalı veya lambasız tanzim edilip zemine çakılmasıyla ahşap palplanşlar yapılır
+
+Kalınlıkları, 2 m. veya daha küçük derinlik için 8 cm., sonrası için her m.’ ye 1~2 cm.. ilave edilerek saptanır. Genişlik 25~30 cm. olabilir. Çakım için, alt uçlar konik veya keski şeklinde yapılır, üst kısma çelik başlık geçirilir. Sert zeminlerde alt uca’da çarık takılabilir. Çift sıralı palplanşlarda, ikinci çakılan sıranın ucu tek tarafa doğru konik yapılır. Yer altı su debisinin fazla olmadığı durumlarda, yuvarlak kesitli ahşap elemanlarla da palplanş yapılmaktadır.
+
+Ahşap palplanşların çakılması için, uçlara kılavuz kazıkları çakılır. Bu kazıkların iki yanına kılavuz kuşaklar bağlanır. Kılavuz kuşakların belli aralıklarla, arasına takozlar konup bulon ile tutturulur.
+Palplanşlar belli gruplar halinde ve kademeli olarak otomatik çekiç veya şahmerdanlarla çakılırlar. Bir grup belli derinliğe indirilir, ondan sonraki biraz daha derine ve nihayet son çakılan istenen derinliğe indirilir, diğerlerine dönülerek çakıma devam edilir
+
+#### Metal Palplans
+
+Iri tasli zeminlerde ahsap ve betonarme kaziklarin cakilmasi zor oldugundan bu tur zeminlerde celik palplanslar kullanilir. Zemine cakilarak kullanilir.
+
+#### Kaziklarla Palplans
+
+##### Kesisen kaziklarla palplans
+
+Kaziya baslamadan once fore kaziklarin kilifi(kalibi) topraga cakilir. Icin priz geciktiren malzeme konulur. Beton dokulur(betonun sertlesmesi geciktiriliyor). 2. asamada kaziklar birbiri icine gececek sekilde cakiliyor. Boylece su sizdirmaz bir set olusturuluyor.
+
+Bu konuda yapılan yaygın uygulama fore kazıklarla yapılan palplanşlardır. Bu uygulamada kazık aralıkları, kazıklar kesişecek şekilde belirlenmektedir. Önce, arada kazık çapının 40 cm.  eksiği kadar boşluk bırakılarak donatısız iki kazık oluşturulmaktadır. Bu kazıkların beton harcı içerisine, betonun priz süresini geciktirmek amacıyla, çimento ağırlığının 1/100’ü kadar Bentonit (Pişirilip öğütülmüş kil) katılmaktadır.  Kazıklar arasında bırakılmış boşluklara ise, iki yandaki kazıkları 20 cm. kesecek şekilde donatılı kazık düzenlenerek palplanş tamamlanmaktadır.
+
+Palplanş ile yandan gelen su engellenir eğer zeminden gelen su var ise kuyu (yüksekliği, temel tabanından en az 50 cm aşağı olacak şekilde) açılır ve motor ile su çekilir.
+
+##### Hazir kaziklarla palplans
+
+...
+
+##### Beton ya da betonarme ile yapilan palplans
+
+...
+
+### Batardo
+
+#### Tanim
+
+Su kenarında veya su içinde inşaat yaparken
+kazı sahasına su girişini önlemek amacıyla alınan önlemlerdir. Batardolar suyun derinliği, akış hızı gibi özelliklerine ve zeminin yapısına göre çeşitli şekillerde yapılırlar. Su seviyesinden 0.3 ile 0.5 m. yukarıya kadar çıkarılırlar. Su seviyesinin en yüksek olduğu duruma göre yükseklik ayarlaması, pahalı bir çözüm olabilir.
+
+#### Cesitleri
+
+- Toprak
+- Beton
+- Ahsap
+- Metal
+- Celik
+
+### Yapilarin askiya alinmasi
+
+Yapılarda tamirat ve tadilat gerektiğinde yapı elemanına gelen yükün geçici olarak başka tarafa aktarılmasına “askıya alma” denir. Bu işlem yapılırken aşağıdaki hususlara dikkat edilmelidir.
+
+- Yukun aktarilacagi yer, gelen yuku tasiyacak nitelikte olmali,
+- Yuk aktaran elemanlar, uzerine gelecek yuku tasiyacak saglamlikta olmali,
+- Yapilacak tadilat veya ilaveler sonunda, tasiyici elemanin yeni sekli en az eski tasiyicilik niteliginde olmalidir.
+
+Önce yük başka tarafa aktarılır tadilattan sonra tekrar eski haline getirilir.
+
+.RESIM.
+
+## Temel Cukuru Etrafindaki Yapilarin Emniyete Alinmasi
+
+Mevcut yapinin yapim tarzi, temel sekli ve zemin yapisi incelenmelidir. Hem mevcut yapilari hem de kazi cukurunu guvenlik altina almaliyiz.
+
+Yapilar yakinda karsilikli desteklenebilir.
+
+### Fore Kaziklarla Onlem
+
+Geniş derin kazı yapılacaksa, mevcut yapı etrafına fore kazık veya hazır kazık uygulanabilir. (Kazı yapılmadan önce kazıklar yapılır.)
+
+### Kazi cevresinde B.A. Perde yapilabilir.
+
+(Zemin akışkan ise fore kazık daha ideal. B.A. perde kazı bitince yapılabiliyor.)
+
+### Asamali Kazi ile B.A. Perde Uygulamasi
+
+Zemin akiskan fakat fore kazik pahali olacak ise asamali B.A. Perde yapilabilir.
+
+# Yeralti Suyunun Uzaklastirilmasi
+
+Bu islem:
+- Suyun **tulumbalarla** bosaltilmasiyla,
+- Temel sahasi icinde veya (en iyisi) temel disinda **acilacak kuyularla** yeralti su seviyesini indirerek,
+- Dondurarak veya taslastirarak (**cimento, beton, veya silikat tuzlarini** palplansla cevrilmis temel sahasi icine acilan deliklerden **zemine siringa ederek**)
+
