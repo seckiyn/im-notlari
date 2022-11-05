@@ -1,0 +1,14 @@
+1667497562874	geckodriver	INFO	Listening on 127.0.0.1:33191
+1667497563447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU7KbzS"
+*** You are running in headless mode.
+1667497564061	Marionette	INFO	Marionette enabled
+1667497564068	Marionette	INFO	Listening on port 32923
+Read port: 32923
+WebDriver BiDi listening on ws://127.0.0.1:36733
+1667497564227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU7KbzS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36733/devtools/browser/0f6486fc-198a-4cd1-a90e-15f56de44215
+1667497567375	Marionette	INFO	Stopped listening on port 32923
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
