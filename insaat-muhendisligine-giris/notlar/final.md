@@ -47,4 +47,341 @@
 
 - Ahsap Kaliplar: Ucuzdur ama dayaniksizdir.
 - Metal Kaliplar: Iscilikten tasarruf saglar. Uzun sure kullanilabilinir.
-- Plastik Esasli Kaliplar: 
+- Plastik Esasli Kaliplar: Tekrar kullanilabilirler. Betona yapismaz.
+
+### Yapim Yontem ve Tekniklerine Gore Kalip Cesitleri
+
+#### Klasik Ahsap Kalip
+
+- Malzeme zaiyati fazladir.
+- Isciligi fazladir.
+- Cevreye zarar verir.
+- Kaliplarin tekrar kullanimi azdir.
+- Kalip yapma zamani uzundur.
+- Ahsap dikme yerine "Teleskobik metal dikme" de kullanilabilir.
+
+#### Modern Kaliplar
+
+##### 1) Panel Kalip (Takilir-Sokulur Kalip)
+
+Panolarin birlestirilmesiye olusturulur. 4'e ayrilir.
+1. Ahsap Panel Kaliplar: **Tij** veya **Gergi Teli** kullanilir.
+    - Dezavantajlari sunlardir:
+    - Panel kaliplar icinde omru en azdir.
+    - Su emmesi en fazla olandir.
+    - Tamirati zor ve pahalidir.
+    - Fazla kullanilamaz.
+    - Avantajlari sunlardir:
+    - Kolay ve yaygin sekilde imal edilip kullanilabilir.
+    - Ilk yatirim maliyeti digerlerine gore dusuktur.
+2. Plywood Panel Kalip(su kontrplagi)
+    - Su emme orani kucuk oldugundan yuzeyi duzgun beton elemanlar dokulebilir.
+    - **Civi** haricinde **tij**, **kama**, **kilit** vs kullanilir.
+    - Ahsap kaliptan omru uzundur.
+    - Ahsap kaliba gore tamirati daha pahalidir.
+3. Celik Panel Kaliplar:
+    - Daha kisa kurulur.
+    - Zaiyatsizdir.
+    - 500 kere kullanilabilir.
+    - **Kama**, **Kilit Birlesimleri** ve **Tij** vs ile **moduler kaliplar** montajlanir.
+    - Korozyona karsi hassastir.
+    - Beton gormeyen yuzeylerinde antipas ve yagli boya ile boyanmalidir.
+4. Polyster Panel Kalip:
+    - Beton goren yuzeyleri **fiberglas**'tir...
+    - Su emmezler.
+    - Hafiftirler.
+
+##### 2) Tunel Kalip
+
+**Tam Hidrolik Tunel Kalip** ve **Yarim Mekanik Tunel Kalip** olarak ikiye ayrilir.
+- Insaatin yapiminda cabukluk saglar.
+- Insaat maliyetinde ekonomi saglar.
+- Tunel kalipla uretilen bina yuksek niteliklidir.
+- Defalarca kullanildigi halde duzgun yuzeyler elde edilir.
+
+**Kayar ve Tirmanir Panel Kaliplar:**
+- Su elemanlardan olusur:
+- Kalip elemani
+- Sehpa iskelesi
+- Kaldirma elemani
+- Calisma platformalari
+- Iskele sehpasi uzerine kurulan ahsap cerceve
+- Tesisat sebekeleri
+- Bosluk cerceveleri ve kaliplar
+
+##### 3) Prefabrik Eleman Kalip
+
+Ozel olarak onceden imal edilir. 3 sekilde uretilir.
+- Yatay Uretim
+- Dusey Uretim
+- Makine Presli Uretim
+
+## Arac ve Gereclerin Hazirlanmasi
+
+- Insaa edilecek yapinin kullanim amaci, kat adedi, kat yuksekligi ve kullanim alani bilinmelidir.
+- Insaat sahibinin **odeme gucu(ekonomi)**, **eldeki imkanlar**, **ekip durumu** gibi bircok neden dikkate alinmalidir.
+- Insaat sirasinda malzemelerin istiflenebilecegi yerler tespit edilmelidir. 
+- **Plan zemine aplikasyonu**, **ip iskelesinin kurulmasi**, **temel kazisi**, **temel tabanina tesviye betonun atilmasi** ile **kalip islemine** baslanmis olunur.
+- Akslarin kesim noktalarindan sarkitilan **şakülle** aks kose noktalari beton uzerine aktarilir. Civi kaziklar(demir cubuklar) cakilir.
+- **Temel kaliplarinin yapilmasi**, **donatilarin hazirlanmasi** ve **beton dokumu** ile insaatin tasiyici kismi bitirilmis olur.
+- **Kolon aplikasyon plani** ile kolonlarin yerleri tespit edilerek **kolon izgaralari** cakilir. Kolon kanatlari dikilerek desteklenir.
+
+### Kalip Elemanlarinin Hazirlanmasi
+
+- Kanatlar:
+    - Kiris kanatlari(Ic ve dis kanat olarak ikiye ayrilir)
+    - Kolon kanatlari
+- Kiriş Tabani
+- Dikmeler:
+    - Kiris Dikmesi
+    - Doseme Dikmesi
+
+### Ahsap Kiris ve Doseme Dikmesi Hazirlama Kurallari
+
+- Uygun olcude kare veya daire kesitli **lata** secilmelidir.
+- Kat yuksekligi 4,50'yi gecen kalip dikmelerinin **kontrol muhendisi(denetim muhendisi)** tarafindan su kistaslar dikkate alinarak boyutlandirmasi istenilmelidir:
+    - Kalip ve iskele agirligi
+    - Beton agirligi
+    - Yigin durumundaki malzeme agirligi
+    - Beton tasima arac agirliklari
+    - Hareketli yukler(isci agirliklari)
+    - Beton dokulurken meydana gelen carpma etkisi
+    - Yatay yuk olarak ruzgar ve halat cekme etkileri
+- Tahta ya da lataya zarar verilmemelidir.
+- Civi ihtiyac kadar kullanilmalidir.
+- Dikme gerektiginde sokulebilecek sekilde cakilmalidir.
+- Caprazlar ve ek islemler icin en az 2,5 cm kalinliginda ve 6 cm genisliginde tahta kullanilmalidir.
+- Civiler ayni dogrultuda degil, caprazlama ve kenardan biraz iceride olacak sekilde cakilmalidir.
+- Kalip dikmeleri ilgili standartlara uygun 2. veya 3.sinif keresteden secilmelidir.
+- Direklerde birden fazla ek kesinlikler yapilmamalidir.
+- Ekleri 1/3 kisminda, kare ve dikdortgen direklerde dort tarafindan, yuvarlark agaclarda uc tarafindan en az 70 cm uzunlugunda saplamalar ile eklenmelidir.
+- **Dikme altlarina konan takozlarin** ***sert agactan*** olmasina(mese, gurgen vb.) ve kama seklinde hazirlanmasina dikkat edilmelidir.
+- Acikligi 3m'yi gecen dosemelerde en az 1 adet yedek dikme kullanilmalidir. Dikme arasi 6m'yi gecmesi durumunda 2 dikme kullanilacak sekilde sayi belirlenmelidir.
+
+### Ahsap Kiris Dikmesi Hazirlamada Is Sirasi
+
+1. Projeden olcu alma, dikme, capraz ve kulak(şaplama) tahtasini olcme ve markalama
+2. Dikme ve tahtayi kesme
+3. Dikme, baslik ve caprazlari(payanda) kurallarina uygun vaziyette cakarak birlestirme
+
+### Ahsap Kiris Dikmesi Hazirlanmasi
+
+- Proje incelenmelidir(kat yuksekligi, doseme kalinligi, kiris yuksekligi vb.)
+- Beton ve betonarmeden insa edilecek yapi elemanlarinin projedeki bicim ve olculerine gore sekillendirilebilmesi icin kalip projesi dogru olarak okunmalidir.
+- Daha onceden hesaplanmis **dikme**, **baslik**, **kulak** ve **caprazlarin** uzunluklari not edilmelidir.
+- Dikme icin uygun olcude ve yeteri kadar lata(10x10 cm) ve tahtayi calisma alanina tasinmalidir.
+- Dikme uzunlugu(boyu) olculup markalandirilmalidir.
+- Dikme ve basligi isaretlenen yerden kesilmelidir.
+- Dikmenin ucuna basligi ortalanarak dayanmalidir.
+- Baslik dikmeye civi ile tutturulmalidir.
+- Baslik ile dikme, kulak(şaplama) tahtasi ile birlestirilmelidir.
+- Dikmeden basligin her iki tarafina yaklasik 45 - 60 derece meyilli olacak sekilde caprazlar(payandalar) cakilmalidir.
+- Hazirlanan kiris dikmeleri istiflenmelidir.
+
+# Proje Detaylarini Okumak
+
+## Statik Proje
+
+Tasiyici sistem elemenlarinin kendisi, olculeri ve icindeki celik donatilarin cap, uzunluk ve miktarlarinin gosterildigi paftalardan meydana gelen projedir.
+
+### Statik Proje Tanimi
+
+Mimari projeye uygun olarak Insaat Muhendisleri tarafindan hazirlanan; olcekleri yapinin buyuklugune ve ozelligine gore belirlenen, betonarme, yiğma, celik ve benzeri yapilarin turlerine gore **tasiyici sistemlerini** gosteren, bodrum kat dahil tum **kat planlarini**, **cati planlarini**, bunlarin **kesitlerini**, detaylarini ve **hesaplarini** icine alan projeye **statik proje** adi verilir.
+
+Bu hesaplarda sunlar goz onune alinir:
+- Zeminin fiziksel parametreleri(degiskenleri)
+- Zemin, Temel, Yapi etkilesimi
+- Bayindirlik ve Iskan Bakanliginca yayimlanan: Zemin ve Temel Etüdü Raporlarının Hazırlanmasına İlişkin Esaslar
+- Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmelik
+
+### Statik Projenin Ozellikleri
+
+**Tasiyici elemanlarin** hangi malzeme ile hangi kesit olcusunde yapilmasi gerektigini belirlenir. Bolgesel **tehditler**(kar, yagmur, ruzgar, deprem vs.) hesaba katilarak hazirlanir.
+
+Tasiyici sistem projelerinde yer alacak paftalar, binanin tarzina gore degismektedir. Ornegin betonarme karkas tarzinda insa edilecek bir binanin tasiyici sistem projesinde asagidaki paftalar yer almaktadir:
+- Temel Plani
+- Kolon Aplikasyonu
+- Doseme Kalip Plani
+- Doseme Techizat(Donati) Planlari
+- Kiris Detaylari
+- Merdiven Detaylari
+
+Temel plani 1/50, detaylari 1/20 olceginde kolon aplikasyonun kolon kesitleri 1/20 veya 1/25, aks araliklari 1/50 olceginde doseme kalip plani ve techizat planlari 1/50 olceginde, kiris ve merdiven detaylari ise 1/20 veya 1/25 olceginde cizilerek her paftaya, kullanilan donatinin sekli, sayici, bukum boylari ve toplam boyu yazilmaktadir.
+
+## Olcu Ve Olculendirme
+
+### Olcu Alma
+
+...
+
+## Projeden Betonarme Kalip Malzeme Bilgilerini Alma
+
+Proje uzerindeki yapi ile ilgili bilgiler:
+- Il, ilce, mahalle, sokak, kapi no.
+- Pafta, ada, parsel
+- Kat adedi
+- Yapi sistemi(Betonarme, Celik, Prefabrik vs.)
+- Beton sinifi(C20, C25, C30 vb.)
+- Demir cinsini(STIII)
+- Doseme sistemi(plak, asmolen, kirissiz plak vb.)
+- Temel sistemi(münferit, mütemadi, radye vb.)
+- Kullanma amacini(Konut, is yeri, magaza)
+- Kullanilacak kalip malzeme cinsi ve sinifi(2'nci sinif çam kereste,...)
+- Kaliplarin yapilis teknigi(ahsap, panel, tunel, prefabrik kalip)
+
+## Teknik Uygulama Bilgilerini Alma
+
+Kat Planlari:
+- Pencere genislik ve yukseklikleri
+- Kapi genislik ve yukseklikleri
+- Ic ve dis olculer
+- Kotlar(katin veya bir bolumunun kotlari)
+- Merdiven basamak genisligi, uzunlugu, rıht yuksekligi ve merdiven cikis yonu
+- Bina bitisik taraflarinin dilatasyon(genisleme) olcusu
+- Bacalar, isikliklar ve olculeri
+
+Mimari kesit:
+- Her katin brüt, net kat yukseklikleri
+- Kapi, pencere yukseklik ve kotlari
+- Her katin doseme sistemi(plak, asmolen vb.)
+- Dusuk doseme var ise olcu ve kotlari
+- Merdiven kesiti(merdiven plak sistemi)
+- Doseme, pencere, denizlik vb. kotlari, yol ve tretuvar kotu
+- Cati var ise elemanlarinin sekli, ebatlari, egimi ve kaplama cinsi, baca kotlari
+- Asansor dairesi var ise motor taban kesiti ve kotlari
+
+Görünüşler: Yapinin ince isleri ile ilgili bilgi alinir
+- Yol ustundeki katlarin tum gorunusleri, kat kotlari
+- Yol altinda kat varsa, kesit cizgi ile kotlari
+- Cati ve baca gorunus ve kotlari
+- Yol ve tretuvar kotlari
+- Yapi bahceli nizam ise, bahce kotlari
+- Su basman kotu
+
+Temel Plani: Yapi temel cesidini (münferit, mütemadi, radye temel) gorenilebilir. Temel planinda varsa hatıllar(bağlantı kirişleri) ve ebatlari temel genislik ve yukseklikleri, kesitlerden temel alti(tesviye betonu, izolasyon vb.) bilgiler alinir.
+- Temel isimleri(T1), olcu ve ebatlari
+- Kolon isimleri(S101, S102... [S]ütundan gelir)
+- Hatıl isim ve ebatlari
+- Kolon aks veya sabit kenar olculeri
+- Temel olcegi(1/50, 1/100)
+- Temelde kullanilan beton ve celik sinifi(C20, STIII)
+
+Kolon Aplikasyon(Bodrum) Plani: Kolonlarin proje akslarina gore temele baglanmasina kolon aplikasyonu denir. **Ip iskelesi** ile yapilir. **Kolonlarin ismi**, **ebatlari**, icindeki boyuna **donati ve capi** ile **etriye bilgileri** kolon aplikasyon planindan alinir.
+
+Kalip Donati Plani: Kalip donati plani **doseme**, **balkon**, **merdiven** donatilarini gosterir.
+
+Merdiven Donati Plani: Yapida uygulanacak merdivenin plan ve kesitlerini gosterir.
+
+Kalip Plani: Yapinin buyuklugune gore 1/50 veya 1/100 olceklidir. Paftanin alt kosesinde hangi kata ait oldugu, olcegi, kullanilan malzeme cinsleri yazilidir.
+- Doseme isim ve kalinliklari(D101, d=10cm)
+- Kiris isim ve ebatlari(K101, 25/50)
+- Dusuk doseme(DD101)
+- Baca yerleri
+- Kolon isimleri(S101)
+- Kiris aks olculeri
+- Kalip dis ve ic olculeri
+- Bosluklar, hava bacalari
+- Merdiven basamak yerlesimi(shanlik sekli)
+- Lento(var ise)
+- Ters kirisler(Tk)
+- Kalibin mimariye gore kotu
+- Farkli kiris ve doseme kotlari
+- Kullanilacak beton ve celik sinifi
+
+# DONATIYI HAZIRLAMA
+
+## Donatı
+
+### Donatının Tanimi
+
+Betonarme yapi elemanlarinin icine kendi oelligine gore demir yerlestirilir. Bu demirlerin **sekli**, **kalinligi**, **sayilari** muhendislik hesaplariyla bulunur.
+
+Bunlar **statik uygulama projesinde** cizilerek gosterilir. 
+
+Demirin sekli ve olcusu yazilir. Betonarme yapi elemanlarinda **etriye**, **pilye**, **düz**, **mesnet**, **şapo**, **çiroz** demirleri vardir.
+
+### Donatının Cesitleri
+
+#### 1) Temel Donatısı
+
+Kalip icinde baglanir. Duz, pilye, kolon filizi ve etriyeler hazirlanir. Duz donatilar olcusunde kesilir ve ucuna 90 derece kanca yapilir. Pilyeleriproje olcusunde ve kolon filizleri temel donatisi tamamlandiktan sonra baglanir. Yere serili donatilarin pas paylari zemin durumuna bagli olarak 2-5 cm olarak birakilir.
+- Temelde once akslar belirlenir. Sonra kalip yapilarak temel donatisina baslanir.
+- Temel duz donatilari hazirlanir.
+- Bu donatilar her iki yonde yere serilir. Kancalari uste dogru kesisme yerlerinden tel ile baglanir.
+- Pilye donatilari ve kolon filizleri hazirlanir.
+- Pilye donatilari ve kolon filizleri, kancalarindan tabandaki donati ustune baglanir.
+- Deprem hatıllari demirci sehpasinda hazirlanir.
+- Deprem hatillari kolon filizlerine gecirilir ve tel ile baglanir.
+
+#### 2) Kolon Donatısı
+
+...
+
+#### 3) Kiriş Donatısı
+
+...
+
+#### 4) Hatıl Donatısı
+
+...
+
+#### 5) Lento Donatısı
+
+...
+
+#### 6) Döşeme Donatısı
+
+...
+
+#### 7) Perde Donatısı
+
+...
+
+#### 8) Merdiven Donatısı
+
+...
+
+### Donatının Kullanildigi Yerler
+
+#### 1) Temel Donatısı
+
+Yapilarin yuklerini temellere tasiyarak altindaki zemine iletirler. Bu yuzden temeller cok saglam olmalidir. Donatili temeller betonarme temellerdir.
+
+Temel donatilari: Münferit temellerde, Müteakip temellerde, Radye temellerde kullanilir.
+
+#### 2) Kolon Donatısı
+
+Yapilarin yuklerini yukaridan asagiya guvenli olarak kolonlar tasir. Kolonlar, icinde esas demirler ile onlarin sagilmasini engelleyen yatay donatidan meydana gelir. Kolonun yatay donatilari etriyeli ya da fretli olarak yapilirlar.
+
+#### 3) Kiriş Donatısı
+
+Yatay durumdaki betonarme elemanlari ve uzerindeki agirliklari kolonlara kirisler iletir. Kirisler tasidiklari yukleri dosemelerden alir. Dosemelerin kenarlarinda ve kolonlarin birbirine baglantilarinda kiris kullanilir.
+
+#### 4) Hatıl Donatısı
+
+Yigma yapilarin kapi ve pencere ustunde ya da kat yuksekliginin bittigi yerde betonarme hatil olur.
+
+#### 5) Lento Donatısı
+
+Yigma yapilarda sadece kapi ve pencere ustunu kapatmak icin lento yapilir. Bu lento icinde lento donatisi kullanilir.
+
+#### 6) Döşeme Donatısı
+
+Betonarme yapilar katlardan meydana gelir. Katlarda yatay betonarme tablalardan olusur. Bu yatay yapi elemanlari doşemedir.
+- Ankastre Döşeme
+- Konsol Döşeme
+- Devamli Döşeme
+- Mantar Döşeme
+- Dişli Döşeme
+- Asmolen Döşeme
+Döşeme donatisi kullanilir.
+
+#### 7) Perde Donatısı
+
+Yeralti tesisat kanallari, binalarin sığınağını cevreleyen duvarlar ve asansor boslugunu cevreleyen duvarlar perde duvar seklinde yapilir. Bu perde duvarlarin icinde perde donatisi kullanilir.
+
+#### 8) Merdiven Donatısı
+
+Yapilarin katlar arasında ulasimi merdivenler saglar. Betonarme merdivenlerde merdiven donatisi kullanilir.
+
+

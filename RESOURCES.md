@@ -9,6 +9,10 @@
 - https://insapedia.com/category/insaat-terimleri-sozlugu/
 - https://www.sanalsantiye.com/ciroz-nedir/
 - http://www.tekniksafety.com/insaat/guvenlik/teleskopik-dikmeler.html
-- 
+- https://insaathesabi.com/sozluk/kelime/hatil-nedir/
+- https://www.pislikmimar.com/tekil-temel-nedir/
+- https://insapedia.com/mutemadi-temel-surekli-temel-nedir/
+
+
 
 
