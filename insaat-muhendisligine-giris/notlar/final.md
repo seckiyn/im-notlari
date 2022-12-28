@@ -384,4 +384,166 @@ Yeralti tesisat kanallari, binalarin sığınağını cevreleyen duvarlar ve asa
 
 Yapilarin katlar arasında ulasimi merdivenler saglar. Betonarme merdivenlerde merdiven donatisi kullanilir.
 
+## Donatıları Baglama
 
+Betonarme yapi elemanlarin insasinda once kalip yapilir.Daha sonra donati yerlestirilir. En son beton dokulur. Donatilar tel ile baglanir.
+
+### Baglama Kurallari
+
+Donati baglamalari kaynak veya tel ile yapilir.
+- Eldivensiz donati baglanmaz.
+- Ozel demirci kerpeteni kullanilmalidir.
+- Donatilar projedeki olcusunde olmalidir.
+- Donatilarin kesistigi butun yerler arada bosluk olusmadan baglanmalidir.
+- Kalip icinde baglanamayacak donatilar yerine yerlestirilmeden disarida birakilmalidir.
+
+### Baglama Yapilisi
+
+- Yarım baglama
+- Tam baglama
+- Yarım çapraz baglama
+- Tam çapraz baglama
+- Kosede atkili baglama
+
+# Donatıyı Kalıba Yerleştirme
+
+## Betonarme Kalıplar
+
+### Betonarme Kalıp Tanimi
+
+- Temel
+- Kolon
+- Döşeme
+- Kiriş
+- Merdiven
+- Perde Duvar
+- Betonarme Çatılar
+
+icin kalip yapilmalidir.
+
+### Betonarme Kalıp Cesitleri
+
+Kullanilan malzemeye gore:
+- Ahsap
+- Metal
+- Plastik
+
+Yapim yontemine gore:
+- Klasik Sistem: Az katli binalarda kullanilir. Kaplama yuzeyler ahsap, iskele kismi metal borulardan kullanilir.
+- Celik Pano ve Moduler Sistem: Yuksek katli olmayan yapimlarda kullanilir. Defalarca kullanilabilir.
+- Tirmanir Sistem: Daha cok perde kaliplarinda kullanilir. Yukari dogru insa edilecek yapilarda kullanilir.
+- Kayar Sistem: Tek taraflidir.
+- Tunel Sistem: Seri, saglam ve devamli yapilacak olan insaatlarda kullanilir.
+- Kalıpsız Sistem: Asmolen döşeme yapiminda kullanilir.
+
+Kalıp sistemlerinin kendi icinde iki bolumu vardir.
+1. Kalip Kaplamasi: Betonarme yapi elemanlarinin yuzeyini elde etmemizi saglar. Dogal tahta, suni tahta ve metal turundeki malzemelerden elde edilir.
+2. Kalip Iskelesi: Yerine dokulmus betonun agirligini beton prizini alincaya kadar tasir.
+
+Beton priz alincaya kadar sulanir. Bu isleme kürleme denir. Beton dayanimina ulasinca kalip iskelesi sokulur. Kalip iskelesi dikme(ayarli metal boru), kirisler, capraz kuşaklar ve kamalardan meydana gelir.
+
+### Betonarme Kalip Kullanildigi Yerler
+
+#### 1) Temel Kaliplari
+
+**Yapiyi temele oturtan en basit kaliplardir**. Yukseklikleri ve gorulen yuzleri azdir. Kalip yapilirken once gorunen yan yuzeyler yapilir. Yan tahtalarin ust ve altindan acilmalari onlemek icin destek kirisleri cakilir.
+
+#### 2) Kolon Kaliplari
+
+Kare, dikdortgen, cokgen veya daire kesitli olur. Kalip yapiminda kanatlar olusturulur. Tahtalar birbirine civi ile tutturulur. Daire kesitli kolon kalibi yapmak icin yuvarlak kusak kaliplara icten çıtalar cakilir.
+
+#### 3) Kiriş Kalibi
+
+Kiriş kaliplari döşemelerle birlikte yapilir. Dikmelerle desteklenir.
+
+#### 4) Döşeme Kalıplari
+
+Payanda, capraz, destek kalibi kullanilir.
+
+Düz, kirişli, dişli ve mantar olmak üzere üç değişik şekilde yapılır.
+
+#### 5) Perde Duvar Kalıpları
+
+Bina temel duvarlarinda ve istinat duvarlarda perde duvar kalibi yapilir. Payanda ile desteklenir.
+
+#### 6) Lento Kalıpları
+
+Kapi ve pencere ust kisimlari lento ile kapatilir. Bunun icin disli ya da duz kullanilan dograma ozelligine gore lento kalibi yapilir.
+
+#### 7) Hatıl Kalıbı
+
+Yukselen duvar ustune tek parca yatay ve dikey olarak yapilir. Duvar kalinligi kadar belli araliklarla takozlar birakilir ve bu takozlara tutturulan yan kanatlar ustten gergi teli ile gerdirilir.
+
+#### 8) Merdiven Kalıpları
+
+...
+
+## Donatıyı Kalıba Yerleştirme Kuralları
+
+Temel donatilari yerlestirilmeden zemin kum ya da beton ile kaplanmalidir.
+
+Döşeme ve kiris donatilari birlikte yapildiklari icin donatilari da birlikte yerlestirilir.
+
+## Donatının Kalıba Yerleştirilmesi
+
+### 1) Temel Donatisinin Kaliba Yerlestirilmesi
+
+...
+
+### 2) Betonarme Perde Duvar Donatisinin Kaliba Yerlestirilmesi
+
+Temelde, asansor cevresi ya da tunel kalip sistemlerinde uygulanir.
+
+### 3) Kolon Donatisinin Kaliba Yerlestirilmesi
+
+...
+
+### 4) Kiris-Doseme Donatisini Kaliba Yerlestirme
+
+...
+
+### 5) Merdeiven Donatisini Kaliba Yerlestirme
+
+...
+
+# DONATIYI BAĞLAMA
+
+## Temel-Kolon Baglantilari
+
+Donatilar disarida hazirlanir bu yuzden sunlar gereklidir:
+- Tabani kalin ayakkabi
+- Demirci Kerpeteni
+- Eldiven
+- Tebesir
+- Demirci Makasi
+
+## Kolon-Kiris Baglantilari
+
+...
+
+## Kiris-Doseme Baglantilari
+
+...
+
+## Merdiven-Doseme Kiris Baglantilari
+
+...
+
+# Temeller
+
+## Mütemadi Temeller
+
+
+Tek yonlu mütemadi ve cift yonlu mütemadi olmak uzere 2 cesittir.
+
+Ornek cizimler...
+
+
+
+
+
+
+
+
+
+SON MUSTAFA AKKAYA
