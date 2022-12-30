@@ -1,8 +1,3 @@
-# Cikabilecek Konular 
-
-- Muhendislik nedir?
-- 
-
 # Muhendislik
 
 Muhendis ihtiyac karsilamaya yonelik uzmanlasmis kisiye denir.(Yol, kopru, bina, fizik, kimya, biyoloji, elektrik)
@@ -451,3 +446,12 @@ Schmidt cekici ile betonun yuzey sertligi olculur.
 5. Temel detaylari 1/20 olcekli
 
 ## Dosemeler
+
+...
+
+
+
+
+
+SON [MUSTAFA AKKAYA]
+

@@ -371,4 +371,4 @@ E-ticaretin farklı türleri vardır:
 - İşletmeden-Tüketiciye (B2C - Business To Consumer)
 - Tüketiciler arası (C2C – Comsumer To Consumer)
 
-
+SON [MUSTAFA AKKAYA]

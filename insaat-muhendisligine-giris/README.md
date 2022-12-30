@@ -1,4 +1,4 @@
 # Insaat Muhendisligine Giris
 
 - [Guz Vize](./notlar/guzvize.md)
-- [Final](./notlar/final.md)
+- [Guz Final](./notlar/guzfinal.md)

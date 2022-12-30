@@ -28,4 +28,7 @@ Konsol: [?]
 Hurdi: Doseme [?]
 Fretli: [?]
 Priz: Taze betonun plastik halden katı hale geçmesidir
-İstinat:
+İstinat: [?]
+Homojen: [?]
+İzotrop: [?]
+Mukavemet: [?]
