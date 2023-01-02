@@ -8,5 +8,5 @@
 - [Matematik](matematik/README.md)
 - [Teknik Resim](teknik-resim/README.md)
 - [Turkdili](turkdili/README.md)
--[Yapi Elemanlari](yapi-elemanlari/README.md)
+- [Yapi Elemanlari](yapi-elemanlari/README.md)
 - [SOZLUK](glossary.md)
