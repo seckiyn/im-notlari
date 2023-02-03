@@ -1,12 +1,4 @@
 # Insaat Muhendisligi Notlari
 
-- [Bilisim](bilisim/README.md)
-- [Fizik](fizik/README.md)
-- [Ingilizce](ingilizce/README.md)
-- [Inkilap](inkilap/README.md)
-- [Insaat Muhendisligine Giris](insaat-muhendisligine-giris/README.md)
-- [Matematik](matematik/README.md)
-- [Teknik Resim](teknik-resim/README.md)
-- [Turkdili](turkdili/README.md)
-- [Yapi Elemanlari](yapi-elemanlari/README.md)
-- [SOZLUK](glossary.md)
+- [2022-2023 Güz Yarıyılı](2223guz/README.md)
+- [2022-2023 Bahar Yarıyılı](2223bahar/README.md)
