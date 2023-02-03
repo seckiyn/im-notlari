@@ -1,34 +1,34 @@
 # Glossary
 
-Hafriyat: Hafr(kazi) kokunden turemistir. 
-Tesviye: SVY(seviye) kokunden turemistir. Duzeltme anlamina gelir.
-Donati: Betonun saglamligini saglamak icin icine konulan metaldir.
-Betonarme: Icinde donati bulunan betondur.
-Tahkimat: Saglamlastirma.
-Aks: Kolon gibi yapı elemanlarının yerleştirilmesi, düzenlenmesinde yardımcı çizgiler dediğimiz aks projelerde referans noktalar olarak görev yapar.(Axis sozcugunden gelir.)
-Tabliye: Döşeme plağı
-Aderans: Betonla celik arasindaki gerilme
-Etriye: Kolonu veya kirisi etkin bicimde saran, elemanin deforme olmasini onlemek icin kullanilan, donatidan yapilmis sargi elemanidir.
-Çiroz: Betonarme yapılarda; kolon ya da perde yapımında kullanılan etriye şekline çiroz denir. 
-Müteakip: Ardi sira, -den sonra
-Lata: Dar ve kalinca tahta
-Pafta: Bir haritayı ya da planı meydana getiren parçalara denir.
-Parametre: Değişken
-Münferit: Tekil anlamina gelir. Her kolon icin ayri ayri yapilan temel seklidir.
-Mütemadi: Surekli demektir[?]
-Hatıl: Duvarların dikey doğrultudaki çatlamalarını engellemek ve ağırlığı yatay bir şekilde dağıtmak için yatay yükleri taşıyan tüm dış ve perde duvarların üzerinde yer alan beton, çelik veya ahşap kısımlardır. Hatıllar fazla kat yüksekliği bulunan yapılarda duvarın dayanımı arttırmak için kullanılır.
-Etriye: [?]
-Pilye: [?]
-Düz: [?]
-Mesnet: [?]
-Şapo: [?]
-Çiroz: [?]
-Lento: [?]
-Konsol: [?]
-Hurdi: Doseme [?]
-Fretli: [?]
-Priz: Taze betonun plastik halden katı hale geçmesidir
-İstinat: [?]
-Homojen: [?]
-İzotrop: [?]
-Mukavemet: [?]
+- Hafriyat: Hafr(kazi) kokunden turemistir. 
+- Tesviye: SVY(seviye) kokunden turemistir. Duzeltme anlamina gelir.
+- Donati: Betonun saglamligini saglamak icin icine konulan metaldir.
+- Betonarme: Icinde donati bulunan betondur.
+- Tahkimat: Saglamlastirma.
+- Aks: Kolon gibi yapı elemanlarının yerleştirilmesi, düzenlenmesinde yardımcı çizgiler dediğimiz aks projelerde referans noktalar olarak görev yapar.(Axis sozcugunden gelir.)
+- Tabliye: Döşeme plağı
+- Aderans: Betonla celik arasindaki gerilme
+- Etriye: Kolonu veya kirisi etkin bicimde saran, elemanin deforme olmasini onlemek icin kullanilan, donatidan yapilmis sargi elemanidir.
+- Çiroz: Betonarme yapılarda; kolon ya da perde yapımında kullanılan etriye şekline çiroz denir. 
+- Müteakip: Ardi sira, -den sonra
+- Lata: Dar ve kalinca tahta
+- Pafta: Bir haritayı ya da planı meydana getiren parçalara denir.
+- Parametre: Değişken
+- Münferit: Tekil anlamina gelir. Her kolon icin ayri ayri yapilan temel seklidir.
+- Mütemadi: Surekli demektir[?]
+- Hatıl: Duvarların dikey doğrultudaki çatlamalarını engellemek ve ağırlığı yatay bir şekilde dağıtmak için yatay yükleri taşıyan tüm dış ve perde duvarların üzerinde yer alan beton, çelik veya ahşap kısımlardır. Hatıllar fazla kat yüksekliği bulunan yapılarda duvarın dayanımı arttırmak için kullanılır.
+- Etriye: [?]
+- Pilye: [?]
+- Düz: [?]
+- Mesnet: [?]
+- Şapo: [?]
+- Çiroz: [?]
+- Lento: [?]
+- Konsol: [?]
+- Hurdi: Doseme [?]
+- Fretli: [?]
+- Priz: Taze betonun plastik halden katı hale geçmesidir
+- İstinat: [?]
+- Homojen: [?]
+- İzotrop: [?]
+- Mukavemet: [?]
