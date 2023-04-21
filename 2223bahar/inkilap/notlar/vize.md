@@ -15,7 +15,7 @@ Her insanda olduğu gibi ailesi, yaşadığı çevre, içinde yaşadığı döne
 
 Namık Kemal, Ziya Paşa, Ali Suavi gibi aydınlar
 
-## Inkilabi Gerceklestirme Stratejisi
+### Inkilabi Gerceklestirme Stratejisi
 
 1. Inkilabin zamanini belirlemek
 2. Inkilabin sartlarini hazirlamak
@@ -25,7 +25,7 @@ Namık Kemal, Ziya Paşa, Ali Suavi gibi aydınlar
 6. Inkilaplari millete mal etmek
 7. Inkilaplarin genclige emanet etmek
 
-## Inkilaplarin Amaclari
+### Inkilaplarin Amaclari
 
 1. Ulusal egemenlige dayali
 2. Bagimsiz
@@ -34,7 +34,7 @@ Namık Kemal, Ziya Paşa, Ali Suavi gibi aydınlar
 5. Uygulamalarda birligi ve esitligi esas alan
 6. Cagdas ve Batili
 
-## Inkilaplarin Alanlari
+### Inkilaplarin Alanlari
 
 1. Siyasal alanda
 2. Hukuk alaninda
@@ -51,6 +51,7 @@ Namık Kemal, Ziya Paşa, Ali Suavi gibi aydınlar
 #### 1) Saltanatin Kaldirilmasi
 
 Gostergeleri:
+
 1. Amasya Genelgesi ile belli edilmistir.(Millet kendi karar verecektir)
 2. Erzurum ve Sivas kongresi(Milli iradeyi egemen kilmak esastir)
 3. TBMM ustunde guc yoktur
@@ -69,7 +70,8 @@ Gostergeleri:
 
 #### 3) Halifeligin Kaldirilmasi
 
-3 Mart 1924 gunu cikan kanunlar ile: **KESIN CIKAR**
+3 Mart 1924 gunu cikan kanunlar ile: (**SINAV**)
+
 - Seriye ve Evkaf Vekaleti(Bakanligi) yerine Diyanet Isleri Baskanligi ve Vakiflar Genel Mudurlugu kurulmustur.(Din ve hayir isleri ayrilmistir **LAIKLESME YONUNDE BIR ADIMDIR**)
 - Erkani Harbiye Vekaleti yerine Milli Savunma Bakanligi ve Genel Kurmay Baskanligi kuruluyor.(**ORDU ILE SIYASETI BIRBIRINDEN AYIRMAK**)
 - Tehvidi Tedrist kanunu ile egitim ve ogretim birligi saglanmis okullar **LAIKLESMISTIR**.
@@ -159,7 +161,7 @@ Medeni Kanunla:
 
 ##### Anayasalar
 
-Anayasa, devletin yonetim bicimini belirler; yasama, yurutme, yargilama erklerini nasil kullanilacagini gosterir. Tum yasalarin en ustunu olan yasadir.
+Anayasa, devletin yonetim bicimini belirler; yasama, yurutme, yargilama erklerini nasil kullanilacagini gosterir. Tum yasalarin en ustunde olan yasadir.
 
 1. 1876 Kanunuesasiye
     - Resmi dili Turkce'dir.
@@ -183,6 +185,7 @@ Anayasa, devletin yonetim bicimini belirler; yasama, yurutme, yargilama erklerin
 ### 3) Egitim alaninda yapilan inkilaplar
 
 Osmanli:
+
 - Mahalle Mektepleri
 - Medreseler
 - Enderun Mektebi(Saray Okulu)
@@ -191,6 +194,7 @@ Osmanli:
 - Yabanci Okullari
 
 Cumhuriyet:
+
 - Laik Egitim
 - Egitimde Birlik
 - Cagdas Egitim
@@ -221,10 +225,12 @@ Cumhuriyet:
 ### 4) Toplumsal alanda yapilan inkilaplar
 
 Amac:
+
 - Toplum hayatinda duzen, birlik ve cagdaslasmayi saglamak
 - Bati ile olan ticari ve diplomatik iliskilerde birlik
 
 Inkilaplar:
+
 - Sapka Kanunu(1925): Kadinlarin kiyafetiyle ilgili bir duzenleme yoktur(**BIRLIK, LAIKLIK VE SOSYAL ESITLIK** guclenmistir.)
 - Tekke, Zaviye ve Turbelerin kapatilmasi(30 Kasim 1925)
 - Saat, Takvim, Agirlik-Uzunluk olcu birimleri
@@ -235,15 +241,18 @@ Inkilaplar:
 ### 5) Ekonomi alaninda yapilan inkilaplar
 
 1923-1930 Liberal Ekonomi Donemi:
+
 - 1923 Izmir(Turkiye) Iktisat Kongresi
     - Aşar Vergisi kaldirilmistir(Musluman ve Gayrimuslimlerden farkli vergiler aliniyor)
     - 1926 yilinda Kabotaj Kanunu: Limanlar arasi yuk ve yolcu tasima isi yabancilardan alinmistir.
     - 1927 Teşviki Sanayi Kanunu: Yatirim yapmak isteyenlere tesvik etmek icin cikarilmistir.
 
 1930-1938 Devletci(Karma) Ekonomi Donemi:
+
 - Sovyet Rusya'dan ekonomi uzmanlari getirilerek **Birinci Bes Yillik Kalkinma Plani** hazirlanmistir.
 
 Bankacilik Konusunda Gelismeler:
+
 - 1924 ISBANKASI - Ozel sektore kredi
 - 1925 Sanayi ve Maadin Bankasi - Sanayi ve maden alanindaki yatirimlari desteklemek
 - 1926 Emlak Bankasi - Emlak alanindaki yatirimlari desteklemek
@@ -275,6 +284,7 @@ Bankacilik Konusunda Gelismeler:
     - Sadabat Paktı(1937): Ortadogu ulkeleri arasi baris sozlesmesi. **Suriye** katilmamistir.
 
 Ataturk Donemi Dis Politika Ilkeleri:
+
 - Bagimsizlik
 - Bariscil
 - Gercekci
@@ -285,6 +295,7 @@ Ataturk Donemi Dis Politika Ilkeleri:
 ## Ataturkculuk/Ataturkcu Dusunce Sistemi
 
 Ataturkculugun Temel Ozellikleri:
+
 - **Tam bagimsizligi** temel alir.
 - Turk toplumunu **cagdas duzeye** cikarmayi amaclar
 - **Akil** ve **Bilime** dayanir.
@@ -293,6 +304,7 @@ Ataturkculugun Temel Ozellikleri:
 - **Milli ve yerli** bir dusunce sistemidir.
 
 Ataturk Ilkeleri:
+
 1. Temel Ilkeleri
     - Cumhuriyetcilik: Ulkenin milli egemenlik esasina gore yonetilmesi
     - Milliyetcilik
@@ -310,7 +322,9 @@ Ataturk Ilkeleri:
     - Yurtta Baris Dunyada Baris
 
 #### 1) Cumhuriyetcilik
+
 Cumhuriyet'in Ilanina Giden Yol:
+
 1. Amasya Genelgesi: Vatanin butunlugunu, milletin bagimsizligini milletin karari ve azmi kurtaracaktir.
 2. Erzurum Kongresi: Milli iradeyi egemen kilmak esastir.
 3. Sivas Kongresi: Milli iradeyi egemen kilmak esastir.
@@ -325,7 +339,8 @@ Cumhuriyet'in Ilanina Giden Yol:
 Devlet milletin degerlerine gore yonetilmelidir.
 
 Ataturk'e gore millet:
-- Zengir bir tarihi mirasa sahip olan;
+
+- Zengin bir tarihi mirasa sahip olan;
 - Kader, kivanc ve uzuntusuyle birlikte olan; 
 - Gelecekte beraber yasama arzusu olan topluluktur.
 
@@ -350,7 +365,7 @@ Ozel sektor ve devlet **ekonomi** alaninda birlikte calisir.
 
 1. 1 Kasim 1922'de Saltanatin kaldirilmasi
 2. 3 Mart 1924'te Halifelik, Ser'iyye ve Evkaf Vekaletinin Kaldirilmasi, Tevhidi Tedrisat yasasi kabulu, medreseler kapatilmasi
-3. Kasim 1925'te kiyafet degisikligi ve Tekke ve Zaviyelerin kapatilmasi(**SINAV SORUSU**)
+3. Kasim 1925'te kiyafet degisikligi ve Tekke ve Zaviyelerin kapatilmasi(**SINAV**)
 4. 1926'da Medeni kanunun kabulu
 5. 1928'de anayasadan "Devletin dini islamdir" tabiri cikarildi ve anayasa laiklestirildi.
 6. 1937'de Laiklik ilkesi diger ilkelerle birlike anayasaya girdi.
@@ -363,6 +378,7 @@ Ataturkcu dusunce sisteminin duragan bir ideoloji olmaktan cikarip gelisen dunya
 #### Ataturk Ilke ve Inkilaplarinin Birbirleriyle Olan Iliskileri
 
 (**SINAV**)
+
 1. Cumhuriyetcilik:
     - TBMM'nin acilmasi
     - Saltanatin kaldirilmasi
@@ -403,3 +419,138 @@ Ataturkcu dusunce sisteminin duragan bir ideoloji olmaktan cikarip gelisen dunya
     - Butun inkilaplar Inkilapcilik ilkesinin bir geregidir.
 
 
+## Ismet Inonu Donemi(1938-1950)
+
+1. 1938-1945 Arasi Donem(II. Dunya Savasi Etkisinde Gecen Donem)
+2. 1945-1950 Arasi Donem(II. Cok Partili Yasama Gecis Donemi)
+
+Ismet Pasa'nin Cumhurbaskani Secilmesi:
+
+- **Değişmez Genel Başkan** ve **Milli Şef** unvanlari verildi.
+
+
+### 1) 1938-1945 Arasi Donem(II. Dunya Savasi Etkisinde Gecen Donem)
+
+Ikinci Dunya Savasi'nin cikardigi ekonomik zorluklar sonucu cikarilan kanunlar:
+
+1. 1940 Milli Korunma Kanunu
+2. 1942 Varlik Vergisi Kanunu
+3. 1944 Toprak Mahsulleri Vergisi Kanunu
+
+Egitimdeki Degisimlar:
+
+- Nisan 1940 koylere ogretmen yetistirmek(Köy Enstitüsü)
+- Mesleki ve Teknik okullarin acilmasi
+- Ilkogretim yayginlastirilmasi
+
+
+### 2) 1945-1950 Arasi Donem(II. Cok Partili Yasama Gecis Donemi)
+
+Ic Sebepler:
+
+- 23 yillik otoriter tek partili yonetim
+- II. Dunya Savasi'nin getirdigi ekonomik yuk
+- Degisim talebi
+- Ismet Inonu'nun kisisel gayreti
+
+Dis Sebepler:
+
+- II. Dunya Savasi'ndan demokrasi blogunun galip cikmasi
+- Turkiye'nin bati dunyasina katilma cabasi
+
+1945 Milli Kalkinma Partisi:
+
+- Donemin ilk muhalefet partisidir.
+- Nuri Demirdag tarafindan kurulmustur.
+- Liberal bir anlayisa sahiptir.
+- Basarili olamamistir.
+
+Demokrat Partinin Kurulus Sureci:
+
+- Adnan Menderes, Refik Koraltan, Celal Bayar, Fuat Koprulu parti icinde muhalif olmasiyla baslar.
+- 1945 Toprak Reformu; ağa kokenli vekiller tarafindan ret oyu verilmistir.
+- 1945 Butce Kanunu; yine ret oyu verilmistir.
+- 1945 Dortlu Takrir ve Ihraclar; onerge devletin ve partinin daha demokratik ve insan haklarina daha saygili olmasini ister, daha sonra dipislinsizlik yapildigi iddiasiyla Adnan Menderes ve Fuat Koprulu partiden atilmistir.
+
+Demokrat Partinin Kurulusu(7 Ocak 1946) 
+
+- Adnan Menderes, Refik Koraltan, Celal Bayar, Fuat Koprulu tarafindan kurulmustur.
+- Genel Baskan: Celal Bayar
+- Programi: Demokrasiye, temel hak ve hurriyetlere, Ataturk ilkelerine bagli, ekonomide ozel sektore yer veren liberal ekonomi
+- Bayar-Inonu Gorusmesi: Laiklik, Dis Politiika ve Ilkogretim Seferberligine karsi cikmadigi icin izin verilmistir.
+
+Ilk Cok Partili Secime Dogru:
+
+- DP, erken donemde CHP'nin fazlasiyla destegini aldi(Gercek muhalefet yapmayacagini dusundugu icin)
+- Hizlica orgutlendi ve toplumun her kesiminden destek buldu.
+- **Erkene alinan** ***belediye secimlerine*** **boykot ederek katilmadi**
+- Erkene alinan **genel secimleri** de boykot etmeyi dusunduyse de **cok partili rejimin onemi, geregi ve gelecegini dusunerek** katilmaya karar verdi.
+- DP, adaylari **avukat, ciftci ve is adamlarindan**; CHP ise **emekli asker, taninmis siyasetci, yuksek idari yoneticilerden** secilmistir.
+
+**21 Temmuz 1946** Secimleri:
+
+- **Ilk cok partili** 
+- Tek dereceli: 
+- **Cogunluk sistemi**: Bir ilde birinci olan parti o ilde tum milletvekilliklerini kazanir. Bu sistem tek bir partinin iktidara gelip ulkeyi istikrarli bir sekilde yonetmesini saglar ancak temsilde adaleti bozar.(**SINAV**)
+- Acik oy - Gizli sayım: Boylece kimin kime oy verdigi belli edilerek seçmene baski uygulanmistir.
+- Muhalefet sandik gorevlileri yok
+- Sandik gorevlileri tarafsiz degil,
+- Sandik gorevlileri ve jandarma baskisi var,
+- Sonuclara itiraz var ama etkili degil,
+- CHP kazanmisitir.
+- **En şaibeli seçim** diye tarihe gecmistir. 
+
+Iktidar(CHP) - Muhalefet(DP) Iliskileri(1946-1950):
+
+- **RECEP PEKER** basbakan olmustur.(Muhalefete karsi sert birisi)
+- Hukumet butcesi tartismasi uzerine DP meclise gelmeyerek boykotta bulundu.
+- Muhalefet iktidarin tek partili doneme benzer uygulamalarini, muhalefete baski yapilmasini suclarken; iktidar muhalefetin yasalara uymamasi ve halki isyana tesvik etmesi gibi suclamalarda bulundu.
+- **12 Temmuz (1947) Beyannamesi** ile Cumhurbaskani(Ismet Inonu) araya girerek gerilimi dusurdu.
+
+Muhalefetteki (DP) Degisim:
+
+- 1947 Kongresi ve Hurriyet Misakinin ilani?
+- DP'nin bolunmesi ve Millet Partisinin(MP; Kurucusu: Fevzi Cakmak) kurulmasi
+- DP'nin kuculmesi ama daha programli ve disiplinli hale gelmesi
+- Secim yasasinin degistirilmesi
+
+Iktidardaki (CHP) Degisim:
+
+- Recep Peker yerine Hasan Saka ve daha sonra Şemsettin Günaltay gibi muhalete daha ilimli kisiler basbakanliga getirildi.
+- Şemsettin Günaltay'in en onemli icraati DP'nin kurulusundan beri istedigi **SECIM KANUNUNU** degistirmek olmustur.
+
+
+1946-1950 Arasi Donemde Din-Laiklik Tartismalari
+
+- Cok partili hayatin baslamasiyla DIN kavrami siyasetin konusu olmaya baslamistir.
+- DP'nin muhafazakar kesime hitap etmek adina din ve laiklik kavramlarini gundemde tutmasi iktidar partisi CHP'nin tek partili donemdeki otoriter laiklik anlayisini gozden gecirmesine yol acmistir.
+- 1948 yilinda imamhatiplar geri acilacak, hacca gitmek isteyenlere doviz tahsis edilmesi, ilkokullarda din dersinin velilerin istegiyle verilmesi
+- 1949 yilinda Ilahiyat Fakultelerinin acilmasi, Islamci gelenekten gelen Şemsettin Günaltay'in basbakanliga getirilmesi
+- 1950 yilinda kapali olan bazi turbelerin ziyarete acilmasi
+- DP **dini cevrelere** bu degisimin kendisi sayesinde yapildigini, **laik kesime** CHP'nin laiklikten odun verdigini anlatmistir.
+- Iktidar partisinin 1948-1950 yillari arasinda yaptigi bu degisimlere ragmen iktidari kaybetmesi onlenememistir.
+
+14 Mayis 1950 Secimleri ve Bir Donemin Sonu:
+
+- Cok partili - tek derecelidir
+- Gizli oy - acik sayim
+- YSK denetiminde(Hakim guvencesi)
+- Muhalefet sandik basinda durmustur
+- **Cogunluk Sistemi** uygulanmistir.
+- 27 yillik tek partili iktidar sona ermistir.
+- DP'nin secimi kazanmasi Beyaz Devrim, Kansız İhtilal olarak adlandırılmıştır. 
+
+
+
+### Turkiye Dis Politikasi
+
+Ismet Inonu Doneminde **T**urkiye'nin **D**is **P**olitikasi(1938-1950):
+
+- TDP'deki amac: savas disi kalarak bagimsizligini korumak
+
+1945-1950 Arasi TDP(Soguk Savas Donemi):
+
+- Dunya Bati Blogu(ABD; Kapitalist-Demokrasi) ve Dogu Blogu(SSCB; Sosyalist-Komunist) olmak uzere iki kampa ayrilmistir.(Bati: NATO - Dogu: VARSOVA PAKTI)
+- 1947 Truman Doktrini: **ABD** ile birlikte olan devletlere **SSCB**'ye karsi olmak uzere **askeri ve ekonomik** yardim yapmak.
+- 1948 Marshall Plani: ABF'nin ekonomik yardimlari
+- 1949'da kurulan **NATO**'ya uye olmak amaciyla muracaat yapmissa da ancak 1952 yilinda alinmistir.
