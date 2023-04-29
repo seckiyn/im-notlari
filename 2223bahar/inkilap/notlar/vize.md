@@ -1,6 +1,3 @@
-Inkilap: Kokten bir degisim.
-
-
 ## Mustafa kemal’in düşünce dünyasının şekillenmesi
 
 Her insanda olduğu gibi ailesi, yaşadığı çevre, içinde yaşadığı dönemin koşullar, eğitim gördüğü okullar, öğretmenleri, okuduğu kitaplar, düşüncelerini benimsediği ve takip ettiği aydınlar (dışarda Fransız aydınları, içerde Genç Osmanlılar) etkili olmuştur.
@@ -554,3 +551,100 @@ Ismet Inonu Doneminde **T**urkiye'nin **D**is **P**olitikasi(1938-1950):
 - 1947 Truman Doktrini: **ABD** ile birlikte olan devletlere **SSCB**'ye karsi olmak uzere **askeri ve ekonomik** yardim yapmak.
 - 1948 Marshall Plani: ABF'nin ekonomik yardimlari
 - 1949'da kurulan **NATO**'ya uye olmak amaciyla muracaat yapmissa da ancak 1952 yilinda alinmistir.
+
+## Demokrat Parti Donemi 1950-1960
+
+
+- **14 Mayis 1950** demokratik secimle gelmistir
+- **27 Mayis 1960'da** demokrasi **disi** mudahale/askeri mudahale/cunta(kismi asker yonetimi)
+- Iktidar suresi: Kesintisiz 10 yil
+- **Baslangicinda** daha cok **demokrasi ve temel hak ve ozgurlukleri** savunmustur
+- Secimi kazandiginda iktidarin karsi cikmadan yerini teslim ettigi icin **Beyaz Devrim** veya **Kansiz Ihtilal** adi verilmistir.
+- **Daha sonra**lari **cogunlukcu ve otoriter** olmustur.
+- Cumhurbaskani: Celal Bayar
+- Basbakani: Adnan Menderes
+- Meclis Baskani: Refik Koraltan
+- Disişleri Bakani: Fuat Korpulu(1950-1955)
+
+### DP Donemi Ekonomideki Gelismeler
+
+- Ozel Sektor(Liberal Ekonomi)-Devlet Yatirimlarina Agirlik Verme
+- Tarim:
+    - Iklim kosullari-Baraj-Sulama kanallari-Tarim alanlarinin artmasi
+    - Tarimda makinelesme(**Marshall Plani[Sovyet Rusya'ya karsi bazi devletleri destekleme**]-Traktor-Bicerdover vb.)
+    - Karayollarinin yapilmasi-Koylunun pazarlara ulasmasi
+- Sanayi:
+    - Dis yardimlar-Yatirimlarin artmasi
+    - Yabanci Sermaye Tesvik Kanunu-Petrol Kanunu
+    - Ekonominin bozulmasi-Enflasyon-Borclanma-IMF-Devalusyon
+
+
+### Iktidar-Muhalefet Iliskileri
+
+- Iktidar: Demokrat Parti
+- Muhalefet: CHP(ana muhalefet), MP-CMP(CKMP), KP, HP
+- **Devri Sabık** (eski iktidarin yaptiklarini yargilamak) yoktur.
+- DP iktidar, CHP muhalefet olarak yer aldigi yeni rollere alismak kolay olmadi.
+- Elestiriye hosgoru ve yapici elestiri **yoktur**.
+    - 1951 Halkevleri kapatildi
+    - 1953 Haksiz iktisap(haksiz edinme) CHP'nin mal varligina el koyma
+    - 1954 Millet Partisi kapatildi.
+    - 1954 CHP Genel sekreteri Kasım Gülek tutuklandi.
+    - 1954 secimlerinden sonra iktidar iyice sertlesmeye basladi
+    - Muhalefetin devlet radyosunu kullanmasina sinirlama getirildi.
+- 1957 secimleri geriye alinmistir.
+- Muhalefet **ortak aday ve listeye secime girmek istedi** ancak **Seçim Kanunu degistirilerek** engel olunuldu.
+- Iktidar oy cogunlugunu kaybetmesi ile **Meşrutiyet tartışması** yaşandı.
+- 1958 yilinda muhalafet partileri birlesti(CMP+KP->CMKP, HP CHP'ye katildi)
+- 1958 yilinda iktidar muhalefeti **KIN VE HUSUMET** cephesi olarak tanimladi ve kendilerine **VATAN** cephesi adini verdiler.
+- 1959'de muhalefet sokaga indi, Mecliste muhalefet yapamadigini soyleyen Ismet Inonu **yurt gezileri** ile muhalefet yapmaya basladi. Usak ve Kayseri'de secmenler arasinda**kavgalar cikti**.
+- Nisan 1960 Istanbul ve Ankara ogrenci olaylari
+- 18 Nisan **Tahkikat Komisyonu**(15 DP'li milletvekili) ve sorusturmalari ile CHP sorusturulmustur.
+
+### Din-Siyaset Iliskileri
+
+- Dini haklar dahil temel hak ve ozgurluklerin genisletilmesini savunmustur.
+- 1950'de ezan tekrar arapca okunmaya baslandi.
+- Imam-hatip okullari ve Ilahiyat Fakulteleri yayginlasti.
+- Din dersleri zorunlu hale getirildi.
+- Turbe ve tarikatlar yeniden acildi.
+- Ataturk bust ve heykellerine saldiri(Ticani Tarikati lider ve uyelerin tutuklanmasi)
+- 1951 tarihli Ataturk'u Koruma Kanunu'nun cikarilmasi
+- 1955'ten sonra dini soylemler artmistir.
+- 1958 Basbakan'in Nurcularin dini lideri Said-i Nursi ile gorusmesi
+- Irtica-gericilik-Ataturk ilkelerinden odun verme-dini duygulara saygili olmama tartismalari
+
+
+### Iktidar-Basin Iliskileri
+
+- Baslarda DP'ye basin destegi verilmistir.
+- Daha sonralari gazete basim, dagitim ve yayinlarina sansur uygulandi.
+- **Tahkikat Komisyonu'na** basini sorusturma ve cezalandirma yetkisinin verilmesi.
+
+
+### Sivil Iktidar-Asker Iliskileri
+
+- DP'nin Inonu'yu ordu uzerindeki agirligini Fevzi Cakmak ile dengelemesi
+- DP iktidar suresi boyunca **darbe fobisi** yasamistir.
+- 1950 Genel Kurmay Baskani ve kuvvet komutanlarini degistirip kendine yakin olanlari getirmistir.
+- Milli Savunma Bakanlari eskisinin tersine sivillerden secilmistir.
+- 1952 NATO uyeligi ile ordunun yeniden yapilandirilmasi
+- 1958 Dokuz Subay Olayi
+- 1958 Irak Darbesi
+- 21 Mayis 1960-Harp Okulu ogrencilierinin sessiz yurusu
+- 27 Mayis 1960-38 kisiden olusan bir **cuntanın**(askerin bir kismi yaptigi icin, ordunun tamami yaparsa Hiyerarşik Darbe denir) darbe yapmasi ve darbecilerin Milli Birlik Komitesi(MBK) adiyla yonetime el koymasi
+
+
+### Demokrat Parti Donemi Turkiye'nin Dis Politikasi
+
+- Batı ozellikle ABD yanlisi bir dis politika takip edilmistir.
+- ABD'nin istegi ile Meclis izmi olmadan 1950'de Kore'ye asker gonderilmesi
+- 1952 NATO'ya uyeligi kabul edildi.
+- 1955 Bağdat Paktı(Turkiye-Irak-Iran-Pakistan-Ingiltere arasinda ve ABD'nin destegiyle)
+- 1955-1960 arasi Kibris Sorunu ve 6/7 Eylul 1955 olaylari
+- Rum-Turk catismalari sornasi 1959 Zurih ve Londra Antlasmalari ve Kibris'ta barisin saglanmasi
+- 1954-1960 ABD'ye cesitli uslerin verilmesi(Incirlik Üssü)
+- 1958 Jüpiter Füzelerinin Kars'a yerlestirilmesi.
+
+
+Son
