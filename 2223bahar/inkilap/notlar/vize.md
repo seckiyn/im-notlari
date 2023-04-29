@@ -1,4 +1,4 @@
-## Mustafa kemal’in düşünce dünyasının şekillenmesi
+## Mustafa Kemal’in düşünce dünyasının şekillenmesi
 
 Her insanda olduğu gibi ailesi, yaşadığı çevre, içinde yaşadığı dönemin koşullar, eğitim gördüğü okullar, öğretmenleri, okuduğu kitaplar, düşüncelerini benimsediği ve takip ettiği aydınlar (dışarda Fransız aydınları, içerde Genç Osmanlılar) etkili olmuştur.
  
