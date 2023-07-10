@@ -81,7 +81,7 @@
 
 ### 1969 Secimleri
 
-- AP bir onceki secime gore oy kaybettigi halde degisen secim sistemi sayesinde meclisteki sandalye sayisi artmis ve yeniden **tek basina iktidara** gelmistir.
+- Adalet Partisi bir onceki secime gore oy kaybettigi halde degisen secim sistemi sayesinde meclisteki sandalye sayisi artmis ve yeniden **tek basina iktidara** gelmistir.
 - Cok sayida parti meclise girmistir.
 - Kucuk partiler daha az temsil edilmistir.
 - **Suleyman Demirel** tarafindan kurulan yeni hukumet icerde yasanan siyasi, toplumsal, ekonomik; dis politikada ise ABD ile yasanan sorunlarla **12 mart 1971** askeri muhtirasina kadar iktidarda kalmistir.
@@ -97,42 +97,47 @@
 - Ogrenciler: FKF ve Dev-Genc
 - Mihri Belli **Milli Demokratik Devrim**(MDD) ortaya atmistir.
 - Dunyada yukselen solun etkisiyle **68 Kusagi** denilen bir kusak ortaya cikmistir. Turkiye sosyalist bir devrim yapmak amaciyla once universitelerde sonra sokakta cesitli eylemler icine girmistir.
-- Eylemler once bariscil baslamistir, daha sonra duzen degisikligi icin silahli mucadeleye donusmustur.
-- **ODTU Olaylari** (1969)
-- **6. Filo ve Kanli Pazar** (1969)
-- NATO uslerinden yabanci askerlerin kacirilmasi,
-- Banka soygunlari
-- Israil Baskonsolunun kacirilmasi gibi silahli eylemlere katilan kisilerin kimisi oldurulmus kimisi tutuklanmistir. Tutuklanan **Deniz Gezmis**, **Huseyin Inan** ve **Yusuf Aslan** 6 Mayis 1972 tarihinde idam edilmistir.
+- Eylemler once bariscil baslamistir, daha sonra duzen degisikligi icin silahli mucadeleye donusmustur:
+    - **ODTU Olaylari** (1969): ABD Buyukelcisinin arabasinin yakilmasi.
+    - **6. Filo ve Kanli Pazar** (1969): ABD'nin emperyalizmine karsi yapilan 6.filo protesto yuruyusune Komunizmle Mucadele Dernegi uyelerinin saldiri duzenlemesi.
+    - NATO uslerinden yabanci askerlerin kacirilmasi,
+    - Banka soygunlari
+    - Israil Baskonsolunun kacirilmasi gibi silahli eylemlere katilan kisilerin kimisi oldurulmus kimisi tutuklanmistir. Tutuklanan **Deniz Gezmis**, **Huseyin Inan** ve **Yusuf Aslan** 6 Mayis 1972 tarihinde idam edilmistir.
 
 
-### 12 Mart 1971 Askeri Muhtirasi
+### 12 Mart 1971 Askeri Muhtırası
 
-- Ulkede **yasanan**, **toplumsal**(**sag-sol** catismalari ve sol orgutlerin silahli eylemleri) ve **ekonomik sorunlar**(ekonomik sorunlarin artmasi, isci grevleri 15/16 Haziran 1970 grevleri [Turkiye tarihinin en buyuk isci eylemleridir], devaluasyon), ABD'nin etkisi gibi nedenlerle asker 12 Mart Muhtirasini vererek **Basbakan Demirel**'in istifasini saglamistir.
+- Ulkede **yasanan**, **toplumsal**:
+    - **Sag-sol**ıcatismalari,
+    - Sol orgutlerin silahli eylemleri,
+    - **Ekonomik sorunlar sorunlarin artmasi**,
+    - Isci grevleri (15/16 Haziran 1970 grevleri [Turkiye tarihinin en buyuk isci eylemleridir]),
+    - Devaluasyonı
+    - ABD'nin etkisi gibi nedenlerle asker 12 Mart Muhtırasını vererek **Basbakan Demirel**'in istifasini saglamistir.
 - **1971-1973** yillari arasinda **12 Mart askeri rejim donemi**nde ikisi **Nihat Erim** baskanliginda olmak uzere **4 koalisyon hukumeti** kurulmustur.
 - 12 Mart doneminde kararlar **askerler tarafindan alinmis**, s**iviller tarafindan uygulanmistir**.
-- TIP VE MNP **kapatilmis**. Anayasanin 35 maddesi degistirilerek **ozgurlukcu yani budanmistir**. Sol'dan bir suru insan tutuklanmistir.
+- Turkiye Isci Partisi(Komunist) VE Milli Nizam Partisi(Milli Gorus) **kapatilmis**. Anayasanin 35 maddesi degistirilerek **ozgurlukcu yani budanmistir**. Sol'dan bir suru insan tutuklanmistir.
 - ABD'nin istegi uzerine **haşhaş ekimi** yasaklanmistir.
 - 12 Mart askeri rejimi 1973 secimleriyle sona ermistir.
 
 
 ### Dis Politikadaki Gelismeler
 
-- **Kibris Sorunu**-**Fuze Krizi**-**Hashas Ekimi** gibi Turkiye ile ABD arasindaki konular Turk dis politikasini mesgul etmistir.
+- **Kibris Sorunu**, **Fuze Krizi** ve **Hashas Ekimi** gibi Turkiye ile ABD arasindaki konular Turk dis politikasini mesgul etmistir.
 - Kibris Sorunu: 1960 yilinda Kibris'ta saglanan baris ortami bozulunca Turkiye 1964 yilinda adaya mudahale etmek istemis ancak ABD(Johnson Mektubu) engellenmistir. Catismalar 1974 yilina kadar devam etmistir.
-- ABD 1962 yilinda Rusya'ya karsi Kars'a kurdugu **Jupiter fuzelerini** sokup goturunce Turkiye SSCB tehdidine acik hale gelmistir.
+- ABD 1962 yilinda Rusya'ya karsi Kars'a kurdugu **Jupiter fuzelerini** sokup goturunce Turkiye **SSCB** tehdidine acik hale gelmistir.
 - ABD'nin 1969 yilindan sonra Turkiye'nin bircok bati ilinde yetistirilen **haşhaşın** yasaklanmasini istemis ancak Turkiye bunu kabul etmemistir.
 - Bu gelismeler **Turkiye-ABD iliskisini kotu**, **Turkiye-SSCB iliskilerine ise olumlu** etkilemistir.
 
 
 ## 1971-1983 Arasi Donem
 
-### 12 Mart 1971 Muhtirasi ve Muhtira Donemi Uygulamalari
+### 12 Mart 1971 Muhtırası ve Muhtıra Donemi Uygulamalari
 
-- Muhtirayi Verenler: Genelkurmay Baskani ve Kuvvet Komutanlari (Kara, Hava, Deniz)
-- Gerekcesi: Ulkedeki **anarsi** ve **kardes kavgasi**,**anayasanin ongordugu reformlarin yapilmamasi** 
+- Muhtırayi Verenler: Genelkurmay Baskani ve Kuvvet Komutanlari (Kara, Hava, Deniz)
+- Gerekcesi: Ulkedeki **anarsi** ve **kardes kavgasi**, **anayasanin ongordugu reformlarin yapilmamasi** 
 - Suclananlar: Parlamento ve Hukumet
 - Sonuc: Basbakan **Suleyman Demirel** istifa etmis yerine **Nihat Erim** Basbakanliginda **partiler ustu** bir hukumet kurulmustur.
-- 12 Mart Donemi/Rejimi
 
 
 ### 12 Mart Donemi Uygulamalari 1971-1973
@@ -141,15 +146,15 @@
 - Hem siddet eylemleri hem de hukumetlerin baskisi artti.
 - General, subay ve akademisyenler atildi.
 - Soldan yazar, akademisyen, gazeteci, siyasetci, ogrenci, isci tutuklandi.
-- TIP VE MNP kapatildi.
+- Turkiye Isci Partisi ve Milli Nizam Partisi kapatildi.
 - Uc ogrenci lideri: Deniz Gezmis, Yusuf Aslan ve Huseyin Inan idam edildi.
 - Inonu-Ecevit rekabeti ve **Bulent Ecevit'in CHP Genel Baskanligina Secilmesi**
-- Islamci siyasetin temsilcisi **Necmettin Erbakan**, **Milli Selamet Partisi**'ni kurdu.
+- Milli Nizam Partisi kapatilinca **islamci** siyasetin temsilcisi **Necmettin Erbakan**, **Milli Selamet Partisi**'ni kurdu.
 - 1973 Cumhurbaskani Secimi: Askerler once **Faruk Gürler**'i secmek isteseler de **Fahri Korutürk** Cumhurbaskani secildi.
 - Anayasa Degisiklikleri:
     - **Temel hak ve ozgurlukler** sinirlandirilmistir.
     - **Basin ozgurlugu** ve **sendika haklarini** daraltilmistir.
-    - **Ozerk Kuruluslar** zayiflatildi veya ortadan kaldirildi.
+    - **Ozerk Kuruluslar** ya zayiflatildi ya da ortadan kaldirildi.
 
 
 ### 1973 Secimleri
@@ -157,13 +162,13 @@
 - Bulent Ecevit en etkili isim olmustur.(**Karaoglan Ecevit**)
 
 
-### Koalisyon Hukumetleri
+### 1973 Koalisyon Hukumetleri
 
 - CHP birinci olmustur ama tek basina iktidar olamamistir.
-- Bulent Ecevit Basbakanliginda **siyaset anlayislari farkli olan iki parti** **CHP-MSP** arasinda kurulmustur.
+- Bulent Ecevit Basbakanliginda **siyaset anlayislari zıt olan iki parti** **CHP-MSP** arasinda kurulmustur.
 - **Kibris Harekati, Hashas Olayi, Af Kanunu** donemin onemli olaylari olmustur.
 - Erken secime gitme dusuncesiyle Ecevit istifa etmistir.
-- Yerine **Suleyman Demirel** baskanliginda AP-MSP-CGP-MHP arasindan **I.MC Hukumeti** kurulmustur.(sola karsi sag cephe)
+- Yerine **Suleyman Demirel** baskanliginda AP-MSP-CGP-MHP arasindan **I. Milliyetçi Cephe(MC) Hukumeti** kurulmustur.(sola karsi sag cephe)
 - MSP VE MHP (MHP 3 milletvekili olmasina ragmen 2 bakanlik almistir) genis kadrolu bakanliklari(Icisleri, Egitim, Saglik gibi) alarak devlet dairelerinden orgutlenmistir.
 - **I.MC Hukumeti** 1977 secimlerine kadar is basinda kalmistir.
 
@@ -193,25 +198,24 @@
 - Kibris Mudahalesinden sonra ABD ambargo uygulamistir.
 - 1974'teki petrol krizi
 - Gida, tup, ilac, elektrik vb. konularda yasanan sıkıntı ve kuyruklar
-- 24 Ocak 1980 Ekonomik kararlarinin alinmasi, Suleyman Demirel doneminde **Turgut Ozal** tarafindan alinmistir.
 - **Korumaci-Mudahaleci Ekonomik Model** yerine **Liberal Ekonomik Model**e gecilmistir.
-- Bu sert kararlar uygulanamadigi icin **12 Eylul rejiminin otoriter doneminde** uygulanabilmistir.
+- Bu sert kararlar ilk alindiginda uygulanamamistir, **12 Eylul rejiminin otoriter doneminde** uygulanabilmistir.
 
 
 ### Toplumsal Olaylar
 
 - Toplum Alevi-Sunni, Sag-Sol, Devrimci-Ulkucu seklinde kutuplanmistir.
 - Sag ve soldan bir suru insan suikastlarla oldurulmustur.
-- 1977 Taksim'de **Kanli 1 Mayis** yasanmistir.
-- 1978 Nisan **Malatya, Adiyaman, Maras ve Adana'da** 4 adrese bombali paketler gonderilmistir.(Bombali paketi alan sag siyasetci **Malatya Belediye Baskani** öldü. **Alevilere yonelik saldirilarda 8 kisi** oldu[**Malatya Olaylari**])
+- 1977 Taksim'de **Kanli 1 Mayis** yasanmistir.: Disk'in gerceklestirdigi toplu isci bayrami kutlamalarina Maoist bir grup saldirmistir.
+- 1978 Nisan **Malatya, Adiyaman, Maras ve Adana'da** 4 adrese bombali paketler gonderilmistir.(Bombali paketi alan sag siyasetci **Malatya Belediye Baskani** öldü. **Alevilere yonelik saldirilarda 8 kisi** öldü[**Malatya Olaylari**])
     - 1978 Eylul **Sivas'ta** Alevilere yonelik yapilan saldiralarda 21 kisi
     - 1978 Aralik **Maras Olaylarinda** 111 Alevi
-    - 1980 **Corum Olaylarinda** 48 Alevi olduruldu.
+    - 1980 **Corum Olaylarinda** 48 Alevi öldürüldü.
 
 
 ### Dis Politikadaki Gelismeler
 
-- Kibris Sorunu: Kibris Baris Harekati adiyla mudahale edildi. ABD'nin karsi cikmasina ragmen yapilmistir. Bulent Ecebit'e Kibris Fatihi olarak anilmistir.
+- Kibris Sorunu: Kibris Baris Harekati adiyla mudahale edildi. ABD'nin karsi cikmasina ragmen yapilmistir. Bulent Ecevit'e Kibris Fatihi olarak anilmistir.
 - 1983 yilinda KKTC bagimsizligini ilan etmistir.
 - 2004'te **Birlesmis Milletler**, sorunu cozme amaciyla **Annan Planini** referanduma sunulmus, plani Turkler kabul, Rumlar reddetmistir. Ayni yil Guney Kibris adaninin tumunu temsilen AB'ye alinmistir.
 - Turkiye-Yunanistan'in arasi bozulmustur.
@@ -247,7 +251,7 @@
 - Danisma Meclisinin 40'i MGK tarafindan atanmis, 120'si illerden gelen kisilerden toplamda **160 kisiden** olusmustur.
 - **Prof. Dr. Orhan Aldıkaçtı** tarafindan sununlan anayasa, MGK tarafindan son sekli hazirlanarak **1982 Anayasasi** olarak Kazim 1982 yilinda **referanduma** sunuldu ve %91.37 oyla kabul edildi.
 - Anayasanin kabulu ile **Kenan Evren**, **7. Cumhurbaskani** oldu.
-- **%10 ulke ve secim olarak iki baraji ongoren** Secim Kanunu, Danisma Meclisi tarafindan hazirlandi.
+- **%10 ulke baraji ve secim cevresi baraji olarak iki baraji ongoren** Secim Kanunu, Danisma Meclisi tarafindan hazirlandi.
 
 
 ## ÖZAL/ANAP Donemi 1983-1991
@@ -259,20 +263,20 @@
 - %91 ile kabul edildi.
 - Anayasanin kabulu ile Kenan Evren Cumhurbaskani oldu.
 - Kenan Evren kabul kampanyasini yuruttu.
-- Anayasa kabul edilirse ulkede normallesme baslayacak.
-- Katilmayanlar ceza alacak ve bir sonraki secimde oy kullanamayacak.
-- Jandarma baskisi vb.
-- Turk Anayasalari icinde en yuksek oyla kabul edilen anayasa oldu.
+    - Anayasa kabul edilirse ulkede normallesme baslayacak.
+    - Katilmayanlar ceza alacak ve bir sonraki secimde oy kullanamayacak.
+    - Jandarma baskisi vb.
+    - Turk Anayasalari icinde en yuksek oyla kabul edilen anayasa oldu.
 
 
 ### Demokratik Hayatin Yeniden Baslamasi
 
 - 12 Eylul oncesi tum partiler kapatildi.
 - Asker 2 parti istemistir:
-    - Sagi temsil edecek Milliyetci Demokrasi Partisi
-    - Solu temsil edecek Halkci Parti
-- Turgut Ozal tarafindan Anavatan Partisi kurulmustur.
-- Diger partiler kurulduysa da Kenan Evren tarafindan secime katilmasina izin verilmemistir.
+    - Sagi temsil edecek **Milliyetci Demokrasi Partisi** 
+    - Solu temsil edecek **Halkci Parti** 
+- **Turgut Ozal** tarafindan **Anavatan Partisi** kurulmustur.
+- Diger partiler kurulduysa da **Kenan Evren tarafindan secime katilmasina izin verilmemistir**.
 
 
 ### MGK'nin Siyasi Muhendislik Calismasi
@@ -304,7 +308,7 @@
     - Darbe doneminde basbakan yardimciligi yapmis,
     - Iceride ve disarida taninmis,
     - Ekonomik sorunlara hakim birisidir.
-- Sonucta askerin hic sans vermedigi Anavatan Partisi birinci gelerek tek basina iktidar oldu.
+- Sonucta askerin hic sans vermedigi **Anavatan Partisi birinci** gelerek tek basina iktidar oldu.
 - Kenan Evren'in aciktan destekledigi MDP sonuncu oldu.
 - Uzun bir sureden sonra tek partili bir iktidar ortaya cikti.
 - Turgut Ozal 1983-1989 arasi Basbakan, 1989-1993 arasi Cumhurbaskani olarak yonetimde etkili oldu.
@@ -328,9 +332,9 @@
 
 ### 1987 Secimleri
 
-- ANAP yeniden tek basina iktidara gelmistir.
+- **ANAP** yeniden tek basina iktidara gelmistir.
 - Secim sistemi degisikleri sayesinde mecliste orantisiz bir temsiliyet kazanmistir.
-- Bircok parti ve oylarin %20'si meclise giremedi.
+- Bircok parti ve toplamda oylarin %20'si meclise giremedi.
 - Tek partili iktidar cogulcu demokrasiye tercih edilmistir.
 
 
@@ -347,28 +351,27 @@
 
 ### Ozal Donemi Ekonomi
 
-- 24 Ocak Ekonomik kararlarini uyguladi.
-- Korumaci ve Mudahaleci ekonomiden Neoliberal ekonomiye gecildi.
+- **24 Ocak Ekonomik** kararlarini uyguladi.
+- Korumaci ve Mudahaleci ekonomiden **Neoliberal** ekonomiye gecildi.
 - Sanayi ve Tarim ozel sektore birakildi. Devlet altyapiya yoneldi.
-- Ithalat ve ihracak yayginlasti. Vergi indirimleri getirildi.
+- Ithalat ve ihracat yayginlasti. Vergi indirimleri getirildi.
 - Urun bollugu yasandi, enflasyon yukseldi.
 - Faiz ve doviz kurlari serbest birakildi.
 - Tarimdaki desteklemeler kaldirildi.
-- Yeni vergiler (katma deger vergisi) ve cesitli fonlar getirildi.
+- Yeni vergiler (**katma deger vergisi**) ve cesitli fonlar getirildi.
 - Vergi indiriminden yararlanmak icin **hayali ihracat**,
 - Yatirim tesviklerinden yararlanmak icin **hayali yatirimlar**,
 - Faizden para kazanmak icin **bankerler ve yolsuzluklar** yayginlasti.
 - **Isci, memur ve ciftci fakirlesti, iktidara yakin is adamlari zenginlesti.**
-- Ozellestirmeler yapildi.
 
 
 ### Ozal Donemi Dis Politika
 
 - KKTC'nin bagimsizligi tanindi.
 - Egedeki sorunlar
-- Bulgar Turkleri Sorunu: Bulgaristan'dan 300bin civari gocmen geldi.
-- Avrupa Ekonomik Topluluguna Uyelik: 1987'de tam uyeli muracaati yapildi.
-- 1987 yilinda Avrupa Insan Haklari Mahkemesi'ne bireysel basvuru hakki tanindi.
+- **Bulgar Turkleri Sorunu**: Bulgaristan'dan 300 bin civari gocmen geldi.
+- **Avrupa Ekonomik Topluluguna Uyelik**: 1987'de tam uyeli muracaati yapildi.
+- 1987 yilinda **Avrupa Insan Haklari Mahkemesi**'ne bireysel basvuru hakki tanindi.
 - I. Korfez Krizi(1991):
     - Saddam'in Kuveyt'e girmesiyle basladi.
     - Uluslararasi guc 1991'deki Korfez Savasiyla Saddam'i Kuveyt'ten cikardi.
@@ -380,7 +383,7 @@
 ### 1991 Secimleri ve Yeniden Koalisyon Donemi
 
 - 90'li yillar koalisyonla baslayip, bitmistir.
-- 8 yillik ANAP iktidari 1991 secimleri ile bitmis, DYP-SHP Koalisyonu baslamistir.
+- 8 yillik ANAP iktidari 1991 secimleri ile bitmis, Dogru Yol Partisi ve Sosyaldemokrat Halkci Parti Koalisyonu baslamistir.
 - Barajlari aşmak icin bircok parti ittifak yaparak secime girmistir.
 - SHP ve HEP **SHP** listelerinden; RP, MÇP, IDP **RP** listelerinden girmistir.
 
@@ -417,7 +420,7 @@
     - Kürt Partileri: Boluculuk nedeniyle,
 
 
-### Koalisyon Hukumetleri 28 Subat Post Modern Darbe
+### Koalisyon Hukumetleri ve 28 Subat Post Modern Darbe
 
 - Ilk defa **islamci** gelenekten gelen ve **laiklik karsitligi** ile bilinen birinci parti olmustur.
 - Erbakan ve Ciller hukumet kurulamayinca Mesut Yilmaz Basbakanligina ANA-YOL denilen hukumet kurulmus, guven oylamasinda 544 uyeden 257 kabul oyu almistir. **Refah Partisi** guven oylamasini **Anayasa Mahkemesine** goturmus. **Turkiye'de** ***ilk defa*** **Anayasa Mahkemesi** karariyla bir **hukumet dusurulmustur**.
@@ -461,7 +464,7 @@
 
 - 1990 yili Prof. Dr. Muammer Aksoy, Cetin Emec, Turan Dursun, Doc. Dr. Bahriye Ucok gibi **Ataturkcu** isimler suikastlara ugradilar.
 - 1993 yilinda **Ugur Mumcu** bombalanarak olduruldu.
-- 1993 yilinda **Turgut Ozal**'in kalp krizi yuzunden oldu.
+- 1993 yilinda **Turgut Ozal** supheli bir kalp krizi yuzunden oldu.
 
 
 ### Uclu Koalisyon Donemi Ekonomik Gelismeler
@@ -471,7 +474,7 @@
 - Turkiye tarihinin **en buyuk ekonomik krizi Subat 2001** tarihinde yasanmistir. **Anayasa kitapcigi firlatmasiyla basladigi soylenir**
 - Krizi durdurmak amaciyla uluslararasi kurumlardan borc bulabilmek icin Dunya Bankasi baskan yardimcilarindan **Kemal Derviş ekonomiden sorumlu devlet bakani** yapilmistir.
 - Kemal Dervis 14 Nisan 2001 tarihinde aciklanan **Guclu Ekonomiye Gecis**:
-    - Kamu harcamalarinda siki denetim,
+    - Kamu harcamalarinda sıkı denetim,
     - Bankacilik sisteminin disiplin altina alinmasi,
     - Piyasalardaki guven bunalimi,
     - Iktidarsizligin ortadan kaldirilmasi,
@@ -497,8 +500,8 @@
 
 ### AKP'nin Ilk Iktidar Donemi (2002-2007)
 
-- 3 Kasim 2002 secimlerinde AKP tek basina iktidara geldi.
-- Genel baskan Erdogan siyasi yasakli oldugu icin, ilk basbakani Abdullah Gul'dur.
+- 3 Kasim 2002 secimlerinde **AKP** tek basina iktidara geldi.
+- Genel baskan Erdogan siyasi yasakli oldugu icin, ilk basbakani **Abdullah Gul**'dur.
 - Mart 2003 yilinda Erdogan'in yasagi kaldirilmis, Abdullah Gul istifa ederek yerini Erdogan'a birakmistir.
 - **Kemal Dervis'in** baslattigi ekonomik reformlara devam edilmistir.
 - IMF ve Dunya Bankasi'yla anlasmalar yapilarak dis kaynak ve finans cevrelerinin destegi alinmistir.
@@ -506,14 +509,14 @@
 - Kamu kuruluslari ozellestirilmis, buyume oranlari yukseltilmis ve enflasyon %45'ten %10'un altina indirilmistir.
 - **Avrupa Birligi**'ne girmek icin duzenlemeler yapilmistir.(demokratiklesme)
 - Avrupa Birligine giris kapsaminda:
-    - Yasal ve anayasal duzenlemelerle gozalti sureleri
-    - Iskenceyle mucadele
-    - Kamu ve ozel televizyonlarda farkli lehcelerde yayin yapma
-    - Ilk defa devlet kanalinda Kürtçe yayın yapıldı.(TRT Şeş ve TRT Kürdi)
-    - Kadin-Erkek esitliginin saglanmasi
-    - MGK Genel sekreterinin sivil olmasi
-    - Anayasanin 90. maddesinde yapilan degisiklik ile temel hak ve ozgurluklere iliskin Turk yasalari ile uluslararasi yasalarin celismesi durumunda uluslararasi yasalarin esas alinmasi kabul edilmistir.
-- 1 Mart Tezkere'si (Irak savasinda Turk uslerinin ABD tarafindan kullanilmamasini soyler) ve Cuval Olayi ABD ile Turkiye'nin arasinin acilmasini saglamistir.
+    - Yasal ve anayasal duzenlemelerle gozalti sureleri duzenlenmis,
+    - Iskenceyle mucadele,
+    - Kamu ve ozel televizyonlarda farkli lehcelerde yayin yapma,
+    - Ilk defa devlet kanalinda Kürtçe yayın yapıldı.(TRT Şeş ve TRT Kürdi),
+    - Kadin-Erkek esitliginin saglanmasi,
+    - MGK Genel sekreterinin sivil olmasi,
+    - Anayasanin 90. maddesinde yapilan degisiklik ile temel hak ve ozgurluklere iliskin **Turk yasalari ile uluslararasi yasalarin celismesi durumunda uluslararasi yasalarin esas alinmasi kabul edilmistir**.
+- 1 Mart Tezkere'si (Irak savasinda Turk uslerinin ABD tarafindan kullanilmamasini soyler) kabul edilmemesi ve Çuval Olayı ABD ile Turkiye'nin arasinin acilmasini saglamistir.
 
 
 ### 2007 Cumhurbaskani Secimi ve 367 Meselesi
@@ -535,9 +538,9 @@
 ### AKP Ikinci Iktidar Donemi (2007-2011)
 
 - AKP %12 puan arttirarak %46,5 oy almistir.
-- AKP'den Milli Gorus cizgisine yakin ve 1 Mart Tezkeresi'ne ret oyu verdigi dusunulen milletvekilleri yerine muhalif ve sol milletvekilleri getirilmistir.
+- AKP'den **Milli Gorus** cizgisine yakin ve 1 Mart Tezkeresi'ne ret oyu verdigi dusunulen milletvekilleri yerine muhalif ve sol milletvekilleri getirilmistir.
 - CHP, DSP ile ittifak yapmasina ragmen sadece %1,5 oy arttirmistir.
-- Demokratik Toplum Partisi %10 barajina takilmamak icin Kürt illerinde bagimsiz olarak secime girmistir. 26 vekil kazanarak mecliste grup kuran dorduncu parti olmustur.
+- Demokratik Toplum Partisi %10 barajina takilmamak icin Kürt illerinde bagimsiz olarak secime girmistir. 26 vekil kazanarak mecliste grup kurarak dorduncu parti olmustur.
 - 3. tur oylamasinda Abdullah Gul 11. Cumhurbaskani olmustur.
 - Cumhurbaskanligi duzenlemesi iceren Anayasa degisikligi referanduma goturulmus ve %69 ile kabul edilmistir.
 - 2009'da yasanan ekonomik kriz ve Muhsin Yazicioglu'nun ölümü gibi olaylarla mucadele etmistir.
@@ -560,14 +563,14 @@
 - Subay, aydin, akademisyen, gazetecilerin de buludundugu kisilere **Ergenekon Teror Orgutu** adilyla operasyonlar yapilmistir.
 - Ilker Basbug Turkiye tarihinde tutuklanan ilk genelkurma baskani olmustur.
 - Ocak 2010 tarihinde **Balyoz Eylem Plani** adiyla ortaya cikan bir plan kapsaminda **Balyoz davalari** baslamistir.
-- Daha sonralari bu davalarin ordu, emniyet ve yargiya yerlesen **Fetullah Gulen Cemaati** tarafindan **Ataturkcu** askerlerin ordudan tasfiye edilmesi amaciyla yapildigi ve kanitlarin cemaatin devlete dizmis uyeleri tarafindan sonradan olusturuldugu anlasilmistir.
+- Daha sonralari bu davalarin ordu, emniyet ve yargiya yerlesen **Fetullah Gulen Cemaati** tarafindan **Ataturkcu** askerlerin ordudan tasfiye edilmesi amaciyla yapildigi ve kanitlarin cemaatin devlete sızmış uyeleri tarafindan sonradan olusturuldugu anlasilmistir.
 - Suclamalarin kumpas oldugu anlasilinca 2014'te yeniden yargilamalar yapilmis ve ceza alanlar beraat etmistir.
 
 
 ### 2010 Anayasa Degisiklikleri ve 12 Eylul 2010 Referandumu
 
 - Bu degisiklikler ile muhalefet iktidarin yargiyi da ele gecirdigi seklinde yorumlamistir.
-- Sonucta **Gulen Cemaatinin** yardimiyla cesitli operasyonlarla (Ergenekon, Balyoz, Devrimci Karargah ve KCK) iktidar muhalifleri tasfiye etmis, devletin yasama, yurutme ve yargi organlari basta olmak uzere tum yuksek organlarini, ordunun yuksek komuta kademesini, sermaye cevrelerini ve medya organlarini kontrol ederek adeta hegemonyasini ilan etmistir.
+- Sonucta **Gulen Cemaatinin** yardimiyla cesitli operasyonlarla (Ergenekon, Balyoz, Devrimci Karargah ve KCK) iktidar **muhalifleri** tasfiye etmis, devletin yasama, yurutme ve yargi organlari basta olmak uzere tum yuksek organlarini, ordunun yuksek komuta kademesini, sermaye cevrelerini ve medya organlarini kontrol ederek adeta hegemonyasini ilan etmistir.
 
 
 ### Gezi Olaylari Mayis-Haziran 2013
@@ -601,6 +604,3 @@
 - Bakanlar Kurulu ve Basbakanlik kaldirilarak tum yurutme yetkisi Cumhurbaskaninda toplanmistir.
 - Cumhurbaskani partili olabilecegi icin yasama organinda da yetkili olabilir.
 - Yargi alaninda da cumhurbaskanina genis yetkiler verilmistir.
-
-
-
